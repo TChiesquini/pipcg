@@ -1,0 +1,397 @@
+﻿Principal;datanascimento;nomecompleto;Nacionalidade;municipio;Logradouro;endereco;bairro;celular;estadocivil;conjuge;nivelescolaridade;profissao
+Membro Comungante;01/01/1977;Pretila Pretti Garcia;Brasileira;CARIACICA;RUA;Granito nº05;São Geraldo;(27) 9227-2821;Casado(a);David Schwanz Garcia;Ensino Médio Completo;Tecnico de Correios
+Membro Comungante;01/02/1969;Ana Cristina de S. Hecher;Brasileira;CARIACICA;RUA;Antonio Esteves nº 342;Vera Cruz;(27) 9614-8695;Viúvo(a);;Superior Completo;Pedagoga
+Membro Comungante;01/02/1977;Renata da Silva Marinho;Brasileira;VIANA;RUA;Santa Helene nº281;Vila Betânia;(27)99838-8452;Divorciado(a);;Pós-Graduação ou Mestrado;Administradora
+Membro Comungante;01/02/1978;Cintia Batista Coutinho Babinsk;Brasileira;CARIACICA;RUA;Rogerio Pombo nº 55;Jardim America;(27)99299-4576;Casado(a);Severino Babinsk Junior;Superior Completo;Do Lar
+Membro Comungante;01/04/1952;Alaide Loureiro Fernandes;Brasileira;CARIACICA;AVENIDA;Padre Del Homo nº 11,  Qdra Rio de Janeiro;São Francisco;(27) 9316-5096;Casado(a);Nilton Sergio Fernandes;Ensino Fundamental Completo;Aposentada
+Membro Comungante;01/04/1994;Sara Costa de Souza Teles;Brasileira;CARIACICA;RUA;Aracaju, n° 117,;Rio Branco;(27)99749-2258;Casado(a);Eduardo Loureiro Teles;Superior Completo;Professora
+Membro não Comungante;01/09/2009;João Pedro Manzoli Diana;Brasileira;CARIACICA;RUA;Vicente Santonio Fantini nº54;Campo Grande;(27)99242-4845;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro não Comungante;01/09/2013;Fábio Luiz Gregório Dias;Brasileira;VIANA;RUA;Amapa nº12;Vila Betânia;(27)99959-6956;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro Comungante;01/10/1992;Flávio Alves Soares;Brasileira;CARIACICA;RUA;Coleiro 46;São Conrrado;(27) 9500-1909;Solteiro(a);;Superior Incompleto;Auxiliar de Escritorio
+Membro Comungante;01/12/1969;Avanir Aguilar dos Santos;Brasileira;CARIACICA;RUA;Constancia Novaes nº 25;Alto Lage;(27)99646-0299;Casado(a);Michele Pereira de Oliveira Aguilar;Ensino Médio Completo;Autônomo
+Membro Comungante;02/01/1950;Raimundo de Souza;Brasileira;CARIACICA;RUA;Celia Chaves Julião nº 143;Santa Cecilia;(27) 9297-9211;Casado(a);Erleti Martins de Souza;Ensino Fundamental Completo;Aposentado
+Membro Comungante;02/02/1973;Alcenir Rodrigues Santos;Brasileira;CARIACICA;RUA;Euclipse do Sol;Jardim Campo Grande;(27)99802-0116;Casado(a);Claudiane Ferreira Miller Santos;Ensino Médio Completo;Pintor/ Tec.em Nabutenção
+Membro Comungante;02/02/1977;Rosangela Piovezan Coaioto;Brasileira;CARIACICA;RUA;São Luiz nº184;Boa Sorte;(27) 9762-9549;Casado(a);Tony Custódio Chiesquini;Ensino Médio Completo;Do Lar
+Membro Comungante;02/07/1998;Karoliny Meira Benevides Martins;Brasileira;VILA VELHA;RUA;Rua Jacupemba  nº 681;Rio Marinho;(27) 9611-6016;Casado(a);Rodrigo Martins Vasconcelos;Superior Incompleto;Estudante
+Membro não Comungante;02/07/2019;Luiz Victor S.Moté;Brasileira;;RUA;;;(27)99642-2371;Solteiro(a);;Menor de 6 anos;
+Membro Comungante;02/09/1996;Geraldo Henrique Tadeu Santos Teixeira;Brasileira;VITÓRIA;RUA;do Acordo nº127;São Pedro I;(27)99798-0968;Solteiro(a);;Ensino Fundamental Completo;Estudante
+Membro Comungante;02/10/1978;Gelson Felix Cordeiro;Brasileira;VITORIA;AVENIDA;04 de Setembro;São Pedro;(27)99873-1049;Casado(a);Fabiola Guilherme Santos;Ensino Médio Completo;Empresário
+Membro Comungante;02/12/1988;Anna Paula Cavalcante G.Pereira;Brasileira;CARIACICA;RUA;João Bubach nº 72;Cruzeiro do Sul;(27)98119-4071;Solteiro(a);;Superior Completo;Advogada
+Membro Comungante;03/01/1977;Weydson Ferreira do Nascimento;Brasileira;VILA VELHA;RUA;Rua Lucio Bacelar nº290 Apto 408;Praia da Costa;(27) 9859-6580;Casado(a);Sandreli Simon Robers;Superior Completo;Professor
+Membro Comungante;03/02/1951;Zilda de Oliveira Fonseca;Brasileira;CARIACICA;RUA;Pará nº31;Cruzeiro do Sul;(27)99924-5389;Casado(a);Orlando Carlos da Fonseca;Ensino Médio Completo;Aposentada
+Membro Comungante;03/03/1987;Ingryd Valadares de Souza Vidal;Brasileira;;RUA;Uruguai 54;Santa Paula;(27) 9888-6589;Divorciado(a);;Superior Completo;Pedagoga
+Membro Comungante;03/03/1998;Luisa Pimentel do Nascimento;Brasileira;CARIACICA;RUA;Benedito nº33;Cruzeiro do Sul;(27) 9801-1486;Solteiro(a);;Ensino Médio Completo;Atendente
+Membro Comungante;03/04/2003;Karoliny Danieletto Ribeiro;Brasileira;CARIACICA;RUA;Coleiro 46;São Conrrado;(27) 9614-4569;Solteiro(a);;Ensino Médio Incompleto;Estudante
+Membro Comungante;03/05/1967;Iranete Gueller Machado;Brasileira;CARIACICA;RUA;Bom Pastor nº 04;Vila Palestina;(27)99651-3423;Casado(a);José Vieira Machado junior;Superior Completo;Engenheira
+Membro Comungante;03/06/1968;José Amilton Menezes;Brasileira;CARIACICA;RUA;Joventino Roberto da Silva nº860;Porto de Santana;(27) 9849-3600;Casado(a);Rute Rodrigues Rocha Menezes;Ensino Médio Completo;Eletricista
+Membro Comungante;03/06/2007;Katlhen Andreiana Lopes Almeida;Brasileira;CARIACICA;RUA;Professor Jadilson Costa de Almeida nº22;Morada de Santa Fé;(27)99999-2123;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro Comungante;03/09/1988;Paolla Pereira de Souza Ribeiro;Brasileira;CARIACICA;RUA;Waldemar Siepierski nº100, torre 3, apto 1006;;(27) 9291-9757;Casado(a);Guilherme Bremenkamp Ribieor;Superior Completo;Jornalista/Comunicólogoa
+Membro Comungante;03/10/1975;Jacimar Ferreira Diana;Brasileira;CARIACICA;RUA;Vicente Santorio nº 54;Campo Grande;(27) 9839-5303;Casado(a);Iana Ribeiro Manzoli Diana;Superior Incompleto;Advogado / Grafico
+Membro Comungante;03/10/2005;Matheus Meira Benevides;Brasileira;VILA VELHA;RUA;Joaquim Bernardino nº 681;Rio Marinho;(24)98115-8974;Solteiro(a);;Ensino Médio Incompleto;Estudante
+Membro Comungante;04/01/1970;Sergio Lucio Mendes;Brasileira;CARIACICA;RUA;Larga 09;Morada de Santa Fé;(27) 9921-6917;Casado(a);Jussara Duarte Mendes;Ensino Médio Completo;Motorista
+Membro Comungante;04/01/1991;Felipe Antonio Loureiro;Brasileira;VILA VELHA;AVENIDA;José Júlio de Souza nº 3550 Ed. Enseada das Garças;Praia de Itaparica;(27)99863-3813;Solteiro(a);;Superior Incompleto;Representante Comercial
+Membro Comungante;04/01/2006;Ester da Fonseca Bruno;Brasileira;CARIACICA;RUA;Larga nº;Morada de Santa Fé;(27)99590-5278;Solteiro(a);;Ensino Médio Incompleto;Estudante
+Membro não Comungante;04/01/2013;Rafaela Salaroli Oliveira;Brasileira;CARIACICA;RUA;Hugo Viola nº 306;São Geraldo;(27)99786-5828;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro Comungante;04/02/1994;Roberta Pereira Monteiro de Andrade;Brasileira;CARIACICA;AVENIDA;Campo Grande nº09;Campo Grande;(27)99289-1541;Casado(a);Tiago Monteiro de Andrade;Menor de 6 anos;Recepcionista
+Membro Comungante;04/04/1996;Jailiny de Souza da Luz Loureiro;Brasileira;CARIACICA;RUA;Santa Fé nº10 Apto302;Vila Palestina;(27)99758-5548;Casado(a);Arthur Luis Loureiro;Superior Completo;Autônoma
+Membro Comungante;04/05/1990;Pollyanna Lara Lima Frains;Brasileira;SERRA;AVENIDA;Desemb. Mario Nunes da Silva nº717 apto 304, bl4;Villaggio Limoeiro;(31) 7525-7920;Casado(a);Nata Tavares Sá Andrade;Superior Incompleto;Vendedora
+Membro não Comungante;04/05/2011;Leonardo Batista Babinsk;Brasileira;CARIACICA;RUA;Rogerio Pombo nº55;Jardim America;(27)99299-4576;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro Comungante;04/08/1975;Elizangela Francisco Louzada;Brasileira;CARIACICA;RUA;Rua Siqueira Campos nº15;Vila Capixaba;(27) 9922-7609;Divorciado(a);;Superior Completo;Advogada
+Membro Comungante;04/08/1988;Emmanuelly Marques dos Santos Barreto;Brasileira;CARIACICA;RUA;Marai Paiva nº495;São Geraldo;(27)99666-9525;Casado(a);Hudson Barreto de Oliveira;Superior Completo;Psicóloga
+Membro não Comungante;04/09/2001;Victória Tavares de Fonseca;Brasileira;CARIACICA;RUA;Anatildes Passos Costa nº51;Campo Grande;(27)99929-1956;Solteiro(a);;Ensino Médio Completo;Estudante
+Membro Comungante;04/10/1980;Elielma Falqueto França de Oliveira;Brasileira;CARIACICA;RUA;Chile nº277;Bandeirantes;(27)99627-6340;Casado(a);Istefany Cortes França de Oliveira;Ensino Médio Completo;Operadora de Telemarketing
+Membro Comungante;04/11/1987;Aline Zocoloto Souza Dutra Barcellos;Brasileira;CARIACICA;RUA;15 de Novembro nº 57;Campo Grande;(27) 9899-1818;Casado(a);Rômulo Schade Barcellos;Superior Completo;Design de Modas
+Membro não Comungante;04/12/2013;Victor Hugo Duarte Mendes;Brasileira;CARIACICA;RUA;larga 09;Morada de Santa Fé;(27) 9773-7394;Solteiro(a);;Semi Alfabetizado;Estudante
+Membro Comungante;05/01/1977;Rônald Schade Barcellos;Brasileira;CARIACICA;RUA;15 de Novembro nº57;Campo Grande;(27) 9837-9929;Casado(a);Karla Rupf Kuster Barcellos;Superior Incompleto;Empresário
+Membro Comungante;05/01/1984;Fabio Alves Soares;Brasileira;CARIACICA;RUA;Coleiro 46;São Conrrado;(27) 9758-6889;Solteiro(a);;Superior Completo;Coordenador Administrativo
+Membro Comungante;05/01/1987;Maciel dos Santos Gonçalves;Brasileira;CARIACICA;RUA;Império da Vila  nº293;Santa Barbara;(27) 9992-4670;Casado(a);Tatianer Quadros do Nascimento;Superior Incompleto;Instrumentista
+Membro Comungante;05/08/1999;Abel Teixeira de Alencar;Brasileira;CARIACICA;RUA;Rio Claro nº10;Itaquari;(27)99511-3064;Solteiro(a);;Superior Incompleto;Bancário
+Membro Comungante;05/09/1992;Iago Duarte Dellacqua;Brasileira;CARIACICA;RUA;Francelina Correa de jesus nº65 ap403 Ed.B.Augusta;Campo Grande;(27)99736-6075;Casado(a);Karina Scardua Pereira Dellacqua;Superior Completo;Dentista
+Membro Comungante;06/01/2003;Kellvin Lourenço Lírio;Brasileira;CARIACICA;RUA;Celina Carreira nº10;São Geraldo;(27)99652-9532;Solteiro(a);;Superior Incompleto;Barbeiro
+Membro Comungante;06/03/1977;Janaina Barcelos Tavares Aguilar;Brasileira;CARIACICA;RUA;Anatild Passos Costa nº51;Campo Grande;(27) 9929-1956;Casado(a);Bruno Antunes de Aguilar;Superior Completo;Pedagoga
+Membro Comungante;06/03/1986;Romário Roberto da Rocha;Brasileira;CARIACICA;RUA;Constantino Moscon nº335;Rosa da Penha;(27) 9889-1852;Casado(a);Ana Lucia Machado de Paula;Ensino Médio Completo;
+Membro não Comungante;06/04/2002;João Victor Santos Silveira;Brasileira;VIANA;RUA;José de Souza nº18;Canaã;(27) 9642-2371;Solteiro(a);;Ensino Médio Incompleto;Estudante
+Membro Comungante;06/04/2006;Vitória Bolzan Barreli;Brasileira;CARIACICA;RUA;Jose Pena nº37;São Geraldo;(27) 9908-9373;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro Comungante;06/05/1999;Gabriel Boone de Souza;Brasileira;CARIACICA;RUA;Maria Preta nº403;Rosa da Penha;(27)99701-2061;Casado(a);Anne Kelly Souza de Barros;Ensino Médio Completo;Aux. Administrativo
+Membro Comungante;06/06/1962;Elizabeth de Souza Franco;Brasileira;CARIACICA;RUA;Claricio Alves Ribeiro nº100;Itangua;(27) 9890-8888;Casado(a);Gilson Mateus Franco;Ensino Médio Completo;Representante Comercial
+Membro não Comungante;06/07/2013;Matheus Vieira Soares;Brasileira;CARIACICA;RUA;Celina Carreira nº11;São Geraldo;(27) 9776-2701;Solteiro(a);;Semi Alfabetizado;Estudante
+Membro Comungante;06/08/1989;Atos Nick Souza Batista;Brasileira;CARIACICA;TRAVESSA;Santo Antonio nº09;Rosa da Penha;(27)98117-5511;Casado(a);Kamila Ribeiro Pereira;Superior Completo;Coordenador de Qualidade
+Membro Comungante;06/09/1998;Felipe Airão Costa;Brasileira;CARIACICA;RUA;Duque  de Caxias nº34;Rosa da Penha;(27)99742-4481;Casado(a);Érica Correa Vidotto Airão;Superior Incompleto;Empresário
+Membro Comungante;06/09/2005;Felipe Ferreira de Paula;Brasileira;CARIACICA;RUA;das Violetas nº193, apto 303;Santo André;(27)98898-6911;Solteiro(a);;Ensino Médio Incompleto;Estudante
+Membro Comungante;06/11/2007;Davi Quadros de Paula;Brasileira;CARIACICA;RUA;dos Professores nº453;Operário;(27) 9781-4521;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro Comungante;06/12/1981;Alex Almeida Santos;Brasileira;CARIACICA;RUA;Santa Catarina nº37;Rio Branco;(27)99692-3979;Casado(a);Stephanie Ribeiro Campista Santos;Superior Completo;Advogado/Serv. Público
+Membro Comungante;07/01/1947;Irenilda Luiza dos Santos Coutinho;Brasileira;CARIACICA;RUA;da matriz nº44;São Geraldo;(27) 9743-3927;Casado(a);Erminio Alves Coutinho;Superior Completo;Aposentada
+Membro Comungante;07/01/1986;Larissa Gianizeli de Cerqueira de Oliveira;Brasileira;CARIACICA;RUA;João Rodrigues Filho s/n;Cariacica Sede;(27)99772-7715;Casado(a);Evandro Silva de Oliveira;Superior Completo;Assist. de Coordenação
+Membro Comungante;07/02/2002;Júlia Duarte Mendes;Brasileira;CARIACICA;RUA;Larga 09;Morada de Santa Fé;(27)99773-7394;Solteiro(a);;Superior Incompleto;Estudante
+Membro não Comungante;07/02/2015;Antonella Oliveira Cunha;Brasileira;CARIACICA;RUA;das Camomilas nº01;Santo André;(27)99995-8261;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro Comungante;07/03/1985;Danusa Simon Robers;Brasileira;VITÓRIA;RUA;Lauro Cunha Freire nº20, Res. Bento Ferreira;Monte Belo;(27) 9999-9107;Casado(a);Izaque Rohr Pereira Lima;Superior Completo;Servidora Pública Federal
+Membro Comungante;07/04/1976;Starley Bruno;Brasileira;CARIACICA;RUA;Larga nº21;Morada de Santa Fe;(27)99623-2605;Casado(a);Kédma Machado da Fonseca Bruno;Ensino Médio Completo;Tecnico em Eletrônica
+Membro não Comungante;07/04/2011;Misael de Miranda Apolinário;Brasileira;VIANA;RUA;São Vicente nº04;Arlindo Vilaschi;(27)99633-6377;Solteiro(a);;Ensino Fundamental Incompleto;estudante
+Membro Comungante;07/06/1954;Dalmiro Teles da Silva;Brasileira;CARIACICA;AVENIDA;Jerusalen nº187;Vila Palestina;(27)99805-1516;Solteiro(a);;Ens Médio Completo;Aposentado
+Membro Comungante;07/06/1972;Paula Renata Lopes de O.Loureiro Bidim;Brasileira;CARIACICA;AVENIDA;José Júlio de Souza, nº 3550 Ed.Enseada das Gapto;Coqueiral de Itaparica;(27)99938-9654;Casado(a);Marcos Thiago Bidim;Superior Incompleto;Representante Comercial
+Membro não Comungante;07/06/2013;Julia Rossi Pavani;Brasileira;CARIACICA;RUA;Rondônia nº151;Campina Grande;(27)99932-0219;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro Comungante;07/07/1955;Marcia Gusmão de Andrade;Brasileira;CARIACICA;RUA;15 sw Novembro nº38;Campo Grande;(27)99505-8102;Viúvo(a);Luiz Carlos Nunes de Andrade (in memori);Ensino Médio Completo;Aposentada
+Membro Comungante;07/07/2008;Elis Dutra Barcellos;Brasileira;CARIACICA;RUA;15 de Novembro nº57;Camo Grande;(27)99899-1818;Solteiro(a);;Ensino Médio Incompleto;Estudante
+Membro não Comungante;07/08/2009;Miguel Robers Nascimento;Brasileira;VILA VELHA;RUA;Lucio Barcelar nº290 apto 408;Praia da Costa;(27) 9997-9178;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro Comungante;07/09/1962;Janete Ferreira Assis;Brasileira;CARIACICA;AVENIDA;Expedito Garcia nº88;Campo Grande;(27) 9648-8039;Divorciado(a);;Ensino Médio Completo;Aposentada
+Membro Comungante;07/09/1970;Alcenir Costa;Brasileira;CARIACICA;RUA;Duque de Caxias nº34;Rosa da Penha;(27)99968-0721;Casado(a);Edilane Ribeiiro Airão Costa;Superior Incompleto;Empresário
+Membro Comungante;07/09/1973;Lindomar Jose de Paula;Brasileira;CARIACICA;RUA;dos Professores nº453;Operário;(27) 9765-6952;Casado(a);Glorinha P.Quadros de Paula;Ensino Médio Completo;Vidraceiro
+Membro Comungante;07/11/1943;Maria Inês Ferreira Gregório;Brasileira;VIANA;RUA;Amapá nº 12;Vila Betânia;(27) 9959-6956;Casado(a);Louzival Nunes Gregório;Ensino Fundamental Incompleto;Aposentada
+Membro não Comungante;07/11/2005;Maria Luiza Tavares de Aguilar;Brasileira;CARIACICA;RUA;Anatildes Passos Costa nº51;Campo Grande;(27) 9929-1956;Solteiro(a);;Ensino Médio Incompleto;Estudante
+Membro Comungante;08/01/1981;Claudia Aparecida Bolzan Barreli;Brasileira;CARIACICA;RUA;José Pena nº 37;São Gealdo;(27) 9859-5485;Casado(a);Marcelo Elias Barreli;Superior Completo;Professora
+Membro Comungante;08/01/2005;Matheus Souza Machado;Brasileira;CARIACICA;AVENIDA;Ministro Eurico Salles nº24 apto 203;Campo Grande;(27)99582-2573;Solteiro(a);;Ensino Médio Incompleto;Estudante
+Membro Comungante;08/03/2005;Mateus Róbers Amaral;Brasileira;CARIACICA;RUA;Rua Adley nº108;;(27)99582-1136;Solteiro(a);;Ensino Médio Incompleto;Estudante
+Membro Comungante;08/04/1988;Tayrine Rodrigues O. Albani;Brasileira;CARIACICA;RUA;Pastor Saturnino José Pereira nº33;Campo Grande;(27)99921-3252;Casado(a);Alan Ruasn Roque Albani;Superior Incompleto;Cariacica
+Membro Comungante;08/05/1947;Eugênio Feliciano Sanglard;Brasileira;CARIACICA;RUA;Albino Sena Dutra nº14;Morada de Santa Fé;(27) 8836-9078;Viúvo(a);Lamir Amorim Sanglard;Ensino Médio Completo;Aposentado
+Membro Comungante;08/05/2000;Nancy Maria Rodrigues de Oliveira;Brasileira;;RUA;;;( 3)336 6- 007;Solteiro(a);;Semi Alfabetizado;Aposentada
+Membro Comungante;08/05/2001;Kéren de Oliveira Curti;Brasileira;CARIACICA;RUA;Granito nº35;São Geraldo;(27)99654-4484;Solteiro(a);;Ensino Médio Incompleto;Estudante
+Membro Comungante;08/06/1987;Janine de Carvalho Cezar Malini;Brasileira;CARIACICA;RUA;Maria das Dores Machado nº 09;Campo Grande;(27)99927-7740;Casado(a);;Pós-Graduação ou Mestrado;Do lar
+Membro Comungante;08/06/1997;Sara Pelegrini Silva;Brasileira;CARIACICA;RUA;São Luiz nº15;Itanguá;(27) 9843-1663;Solteiro(a);;Superior Incompleto;Professora
+Membro Comungante;08/08/1956;Maria Juscelina Roque Albani;Brasileira;CARIACICA;RUA;;Campo Grande;(27)99865-0314;Casado(a);;Ens. Médio Completo;Tecnica de Enfermagem
+Membro Comungante;08/10/1963;Marlete das Graças Loureiro Teles;Brasileira;CARIACICA;AVENIDA;Jerusalen nº187;Vila Palestina;(27)99936-6006;Casado(a);Dalmiro Teles da Silva;Professora;Aposentada
+Membro Comungante;08/10/1989;Érica Ribeiro Spadeto;Brasileira;VILA VELHA;RUA; Henrique Laranja, 44 Bloco B - 203;Centro;(27) 9950-4496;Divorciado(a);;Superior Completo;T. Informatica
+Membro Comungante;08/10/2010;Júlia Dutra Barcellos;Brasileira;CARIACICA;RUA;15 de Novembro nº57;Campo Grande;(27)99899-1818;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro não Comungante;08/10/2014;João Henrique Aurich Lopes;Brasileira;CARIACICA;RUA;Granito nº39;São Geraldo;(27) 9722-1790;Solteiro(a);;Ensino Fundamental Incompleto;estudante
+Membro Comungante;08/11/1957;Usiel Ferreira Lopes;Brasileira;CARIACICA;RUA;Padre Gabriel Maire nº94;Morada de Santa Fé;(27) 9892-1127;Casado(a);Eliane Maria de Paula Lopes;Ensino Médio Completo;Vendedor
+Membro Comungante;08/11/1959;Eufrânio de Oliveira;Brasileira;CARIACICA;RUA;Presidente Kennedy nº65 apto 105;Campo  Grande;(27)99760-1057;Casado(a);Karine Freitas Silva de Oliveira;Ensino Médio Completo;Comerciante
+Membro não Comungante;08/12/2018;Guilherme Oliveira Cunha;Brasileira;CARIACICA;RUA;das Camomilas nº01;Santo André;(27)99995-8261;Solteiro(a);;Menor de 6 anos;
+Membro Comungante;09/02/1978;Luciana Pelegrini;Brasileira;CARIACICA;RUA;São Luis nº15;Itangua;(27) 9998-5015;Divorciado(a);;Ensino Médio Completo;Designer Projetista
+Membro Comungante;09/02/1994;Rodrigo Silva Santos;Brasileira;GUARAPARI;RUA;Bahia nº32;Coroado;(27)99658-3943;Solteiro(a);;Superior Completo;Promotor de vendas
+Membro não Comungante;09/02/2012;Jônatas Ferreira de Paula;Brasileira;CARIACICA;RUA;das Violetas nº193, apto 303;Santo André;(27)98898-6911;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro não Comungante;09/02/2015;Guilherme Uliana de Freitas;Brasileira;CARIACICA;RUA;João Bonadmam nª133;São Francisco;(27)99827-0659;Solteiro(a);;Semi Alfabetizado;de menor
+Membro Comungante;09/03/1993;Águina do Nascimento Regis;Brasileira;CARIACICA;RUA;Floresta nº 04;Morada de Campo Grande;(27)99791-3570;Solteiro(a);;Superior Completo;Assist. de Apoio 1
+Membro Comungante;09/03/1996;Gabrielly Grechi;Brasileira;CARIACICA;RUA;I nº03;Campo Verde;(27) 9792-1507;Solteiro(a);;Ensino Médio Completo;Tec. Design Interior
+Membro Comungante;09/05/1976;Andressa Hoffmann Chagas Curti;Brasileira;CARIACICA;RUA;Granito nº 37;São Geraldo;(27) 9996-0042;Casado(a);Róber Machado Curti;Ensino Médio Completo;Do lar
+Membro Comungante;09/06/1994;Rafaela de Lima Stofel Effgen;Brasileira;CARIACICA;RUA;Alegre s/n;Alto Lage;27)99723-0880;Casado(a);Deidson da Silva Effgen;;Protética
+Membro Comungante;09/07/1981;Cristiano Gomes de Morais;Brasileira;CARIACICA;RUA;Nove, nº23;Vale Esperança;(27)99849-1497;Casado(a);Larissa Martins Santos Morais;Superior Completo;Analista de Sistemas
+Membro Comungante;09/07/1981;Fabiola Guilherme Santos;Brasileira;VITORIA;AVENIDA;04 de Setembro;São Pedro;(27)99714-4406;Casado(a);Gelson Feliz Cordeiro;Superior Completo;Professora
+Membro Comungante;09/08/1965;Sonia Maria Diana Pimentel;Brasileira;CARIACICA;RUA;Equador nº01;Campina Grande;(27) 9626-0741;Casado(a);Gilmar Lima Pimentel;Ensino Médio Completo;
+Membro Comungante;09/09/1973;Antônio Osvaldo Curto Machado;Brasileira;CARIACICA;AVENIDA;Ministro Eurico Salles  nº24 apto 203;Campo Grande;(27)98807-2029;Casado(a);Fabiana Silveira Souza Machado;Superior Completo;Portuário
+Membro Comungante;09/10/1953;Elias Hilário Vieira;Brasileira;CARIACICA;RUA;Papuçu nº99;São Geraldo;(27) 9922-3039;Casado(a);Marluce Almeida Vieira;Ensino Médio Completo;Aposentado
+Membro não Comungante;09/11/2015;Sophia de Oliveira Albani;Brasileira;CARIACICA;RUA;Pastor Saturnino José Pereira, nº33;Campo Grande;(27)99921-3252;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro Comungante;09/12/1982;Elani de Abreu Rais Silva;Brasileira;VIANA;RUA;Nossa Senhora de Fátima nº35;Arlindo Vilasck;(27) 9931-4077;Casado(a);Oldair Jose da Silva;Ensino Médio Completo;Técnica de Laboratório
+Membro Comungante;10/01/1976;Viviany Maria Meira Benevides;Brasileira;VILA VELHA;RUA;Joaquim Bernardino nº681;Rio Marinho;(27)99664-9826;Casado(a);Carlos Henrique de Oliveira Benevides;Ensino Médio Completo;Autônomo
+Membro não Comungante;10/01/2021;Teodoro Cezar Malini;Brasileira;CARIACICA;RUA;Maria das Dores Machado nº09;Campo Grande;(27)99927-7740;Solteiro(a);;Menor de 6 anos;
+Membro Comungante;10/02/1961;Edma Leal Bentes do Nascimento;Brasileira;CARIACICA;RUA;Antonio de Paula nº17;Santa Barbara;(27) 9792-9606;Casado(a);Luiz Carlos Bentes do Nascimento;Ensino Fundamental Completo;Do Lar
+Membro Comungante;10/04/1978;Elisangela Ferreira Gregório Dias;Brasileira;VIANA;RUA;Amapá nº12;Vila Betânia;(27) 9959-6956;Casado(a);Fábio Luiz Dias;Superior Completo;Pedagoga
+Membro Comungante;10/04/1981;André Luiz Moté Barboza;Brasileira;VIANA;RUA;José de Souza nº 18;Canaã;(27) 9801-6920;Casado(a);Marcilene da Silva Santos Moté;Ensino Médio Completo;Vendedor Interno
+Membro Comungante;10/06/1970;Jader Machado Curti;Brasileira;CARIACICA;RUA;Rua Granito nº35;São Geraldo;(27) 8139-5862;Casado(a);Katia Regina Oliveia Curti;Superior Completo;Comerciário
+Membro Comungante;10/07/1997;Lavínia Souza Martins;Brasileira;VIANA;RUA;João Paulo II  nº;Marcilio de Noronha;(27) 9926-7922;Solteiro(a);;;Autônoma
+Membro Comungante;10/08/1981;Elaine Cristina Rossi Pavani;Brasileira;CARIACICA;RUA;Rondonia nº151;Campina Grande;(27)99932-0285;Casado(a);João Luiz Pavani;Pós-Graduação ou Mestrado;Professora
+Membro Comungante;10/08/1992;Avelar Gasparini Junior;Brasileira;CARIACICA;RUA;Nossa Senhora das Graças nº 60;Santa Cecilia;(27) 9939-7610;Solteiro(a);;Ensino Fundamental Incompleto;Especial
+Membro Comungante;10/09/1968;Claudio Luiz Filho;Brasileira;CARIACICA;RUA;Waldemar Siepierski nº 100 bloco 2,ap 801;Rio Branco;(27) 9740-4380;Viúvo(a);;Superior Completo;Contador
+Membro Comungante;10/10/1966;Marcelo Elias Barreli;Brasileira;CARIACICA;RUA;Jose Pena nº37;São Geraldo;(27)99818-4575;Casado(a);Claudia Aparecida Bolzan Barreli;Ensino Fundamental Completo;Porteiro
+Membro Comungante;10/10/1974;Fabiana Silveira Souza Machado;Brasileira;CARIACICA;AVENIDA;Ministro Eurico Salles nº24 apto 203;Campo Grande;(27)99582-2573;Casado(a);Antonio Osvaldo Cuto Machado;Superior Completo;Pedagoga
+Membro Comungante;10/10/1985;Istefany Cortes França de Oliveira;Brasileira;CARIACICA;RUA;Chile nº277;Bandeirantes;(27)99309-8871;Casado(a);Elielma Falqueto Oliveira;Ensino Médio Completo;Marceneiro
+Membro Comungante;10/11/1970;Simone Pagel de Almeida;Brasileira;CARIACICA;RUA;Mercúrio nº12;Cruzeiro do Sul;(27)99236-5956;Casado(a);Luiz Carlos Galvão;Ensino Médio Completo;do Lar
+Membro Comungante;10/11/2008;Lilian Cezar Pereira;Brasileira;CARIACICA;RUA;Santa Catarina nº37 apto 202, torre 5;Rio Branco;(27)98862-1142;Solteiro(a);;Ensino Fundamental Completo;Estudante
+Membro não Comungante;10/11/2021;Liz Hollunder Aguiar;Brasileira;;RUA;;;(27)99743-0306;Solteiro(a);;Menor de 6 anos;
+Membro Comungante;11/01/1974;Danise Simon Robers Gomes;Brasileira;CARIACICA;RUA;Canópos nº02;Cruzeiro do Sul;(27) 9941-6439;Casado(a);Carlos Hnerique Motta Gomes;Superior Completo;Administradora
+Membro não Comungante;11/04/2018;Manassés Pezzin Lima;Brasileira;CARIACICA;RUA;Santa Bárbara;Rosa da Penha;(27)99877-1871;Solteiro(a);;Menor de 6 anos;
+Membro Comungante;11/05/1988;Caroliny Santos Silva Barbosa;Brasileira;CARIACICA;RUA;Itaguaçu nº 13;Morada de Santa Fé;(27)98854-9004;Casado(a);Thiago Chagas Barbosa;Ensino Médio Completo;Do lar
+Membro Comungante;11/05/2003;Mariana Patrocínio Martins;Brasileira;VIANA;FAZENDA;Peixes S/Nº;Formate;(27)99531-1637;Solteiro(a);;Superior Incompleto;Estudante
+Membro Comungante;11/07/1962;Lucimere Mendes Martins;Brasileira;CARIACICA;RUA;1 Quadra H lote3;Maracana;(27)99855-7124;Casado(a);Osmar Geraldo Nunes;Ensino Médio Completo;Do Lar
+Membro não Comungante;11/12/2007;Lais Delucas Motta;Brasileira;CARIACICA;RUA;Waldemar Siepiereski nº100 Torre 2, apto 801;Rio Branco;(27)99740-4380;Solteiro(a);;Ensino Médio Incompleto;Estudante
+Membro Comungante;12/01/1949;Liocéa Almeida de Melo;Brasileira;CARIACICA;TRAVESSA;Valfredo Ferreira Paiva nº26;Campo Grande;(27)99228-3183;Viúvo(a);Samuel Amos de Melo (in memori);Ensino Médio Completo;Aposentada
+Membro Comungante;12/01/1960;Hilta da Silva Pereira Gasparini;Brasileira;CARIACICA;RUA;Nossa Senhora das Graças nº 60;Santa Cecilia;(27) 9939-7610;Casado(a);Avelar Gasparini;Ensino Médio Completo;Aposentada
+Membro Comungante;12/01/1972;Kleber Oliveira Ribeiro;Brasileira;CARIACICA;RUA;Coleiro 46;São Conrrado;(27) 9958-7225;Casado(a);Walmira Alves D.Ribeiro;Ensino Médio Completo;Agente de Viagens
+Membro Comungante;12/01/1991;Rodrigo Martins Vasconcelos;Brasileira;CARIACICA;Rua;Jacupemba nº 681;Rio Marinho;(27) 9937-3665;Casado(a);Karoliny Meira Benevides Martins;Superior Completo;Professor Ed. Física
+Membro Comungante;12/01/1999;Claudio Lourenço da Silva Junior;Brasileira;CARIACICA;RUA;Pio XII 08;Campo Grande;(27) 9225-6562;Solteiro(a);;Ensino Médio Completo;Monitor
+Membro não Comungante;12/02/2014;Estevão Pezzin Lima;Brasileira;CARIACICA;RUA;Santa Barbara nº272;Rosa da Penha;(27)99877-1871;Solteiro(a);;Semi Alfabetizado;menor
+Membro Comungante;12/03/1972;Jaqueline Silva Nascimento Grechi;Brasileira;CARIACICA;RUA;I nº03;Campo Verde;(27) 9621-8663;Casado(a);Gabriel Grechi;Superior Incompleto;Técnico Contábil
+Membro não Comungante;12/03/2007;Livia Sathler de Oliveira;Brasileira;CARIACICA;RUA;Presidente Kenedy nº65 apto105;Campo Grande;(27)99834-0343;Solteiro(a);;Ensino Fundamental Completo;Estudante
+Membro não Comungante;12/03/2009;Arthur Velten Hubner;Brasileira;VIANA;RUA;São Clemente nº11;Nova Betânia;(27)99875-8348;Solteiro(a);;Ensino Médio Incompleto;estudante
+Membro Comungante;12/04/1994;Vitor Gusmão de Andrade;Brasileira;CARIACICA;RUA;15 de Novembro nº38;Campo Grande;(27) 9613-6165;Solteiro(a);;Superior Incompleto;Advogado
+Membro Comungante;12/04/2000;Érica Corrêa Vidotto Airão;Brasileira;CARIACICA;RUA;Duque  de Caxias nº34;Rosa da Penha;(27)99860-7685;Casado(a);Felipe Airão Costa;Superior Incompleto;Estudante
+Membro Comungante;12/05/1980;Andressa Alvarenga Matos Gonçalves;Brasileira;CARIACICA;AVENIDA;Amazonas nº404;Itapemerim;(27)99805-8010;Casado(a);;Superior Incompleto;Administradora
+Membro Comungante;12/05/1986;Severino Babinsk Junior;Brasileira;CARIACICA;RUA;Rogerio Pombo nº55;Jardim America;(27)99222-3553;Casado(a);Cintia Batista Coutinho Babinsk;Superior Completo;Tecnico Elétrica
+Membro Comungante;12/05/1997;Daniel de Moura Rezende;Brasileira;CARIACICA;RUA;Evaristo Canal nº61;Campo Grande;(27)98119-5710;Solteiro(a);;Ensino Médio Completo;Ajudante Mecânico B
+Membro Comungante;12/06/1987;Viviani Pezzim da Silva Lima;Brasileira;CARIACICA;RUA;Santa Barbara nº 272;Rosa da Penha;(27)99844-4900;Casado(a);Fagner Nascimento Lima;Superior Incompleto;Vistoriadora
+Membro Comungante;12/08/1971;Claudiomir Novais Brozeghini;Brasileira;CARIACICA;RUA;Sergio Cardoso nº 69;Dom Bosco;(27) 9838-2298;Casado(a);Fernanda Giavarini Brozeghini;Ensino Médio Completo;Mecanico de Automotores
+Membro Comungante;12/09/1996;Pedro Augusto Bravim de Carvalho;Brasileira;CARIACICA;RUA;Edson Tadei nº16;Santa Barbara;(27)99933-4108;Solteiro(a);;Ensino Médio Completo;Vendedor/Atenente
+Membro não Comungante;12/09/2011;Murilo Robers Nascimento;Brasileira;CARIACICA;RUA;Lucio Barcelar nº290 apto 408;Praia da Costa;(27) 9997-9178;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro Comungante;12/10/1970;Elias Rodrigues Barbosa;Brasileira;VIANA;RUA;Getulio Vargas nº 12;Vila Betania;(27) 9296-5271;Casado(a);Juliana Gonçalves de Oliveira;Ensino Médio Completo;Guarda Municipal
+Membro Comungante;12/11/1993;Aline Francieli de Oliveira;Brasileira;CARIACICA;RUA;das Camomilas nº01;Santo André;(27)99995-8261;Casado(a);Daniel Silva Cunha;Superior Completo;Analista Contábil
+Membro Comungante;12/12/1991;Letícia Gianizelide Cerqueira Firme;Brasileira;CARIACICA;RUA;da Matriz  nº60;São Geraldo;(27)99526-9533;Casado(a);Feliphe Erlacher Firme;Superior Completo;Do lar
+Membro Comungante;13/02/1975;Soni Martins Ewald;Brasileira;CARIACICA;RUA;Celuta Chaves Julião nº133;Santa Cecilia;(27) 9872-1525;Divorciado(a);;Ensino Médio Completo;Aposentada
+Membro Comungante;13/04/1989;Jeniffer Karlem de Oliveira da Silva;Brasileira;CARIACICA;RUA;Marcelino de Araujo nº88;Santana;(27) 9634-6031;Casado(a);Osiel Silveriano da Silva;Superior Completo;Do lar
+Membro não Comungante;13/05/2021;Helena Sobreira Nunes;Brasileira;VILA VELHA;RUA;;;(27)99841-1159;Solteiro(a);;Menor de 6 anos;
+Membro Comungante;13/06/1974;Róber Machado Curti;Brasileira;CARIACICA;RUA;Granito nº;São Geraldo;(28)99978-8053;Casado(a);Andressa Hoffmann Chagas Curti;Ensino Médio Completo;Representante Comercial
+Membro Comungante;13/06/1987;Diéssica de Almeida Nunes dos Anjos;Brasileira;CARIACICA;RUA;Ibiraçu nª13;Bandeirantes;(27)99641-3540;Casado(a);Cristiano dos Anjos Silva;Superior Completo;Pegagoga
+Membro Comungante;13/07/1949;Cecilia Friederich Souza;Brasileira;CARIACICA;RUA;João Bubach nº 88;Cruzeiro do Sul;(27) 3216-7825;Casado(a);Reinaldo Jesus do Nascimento Souza;Ensino Médio Incompleto;Aposentada
+Membro Comungante;13/09/1988;Alan Ruan Roque Albani;Brasileira;CARIACICA;RUA;Pastor Saturnino José Pereira nº 33;Campo Grande;(27)99711-2040;Casado(a);Tayrine Rodrigues de Oliveira Albani;Superior Completo; Analista de Infraestrutura de Redes
+Membro Comungante;13/09/1997;Ricardo Antonio Apolinário Junior;Brasileira;VIANA;RUA;Francisco Alves nº22;Vila Betânia;(27)98117-4685;Casado(a);Eliana Santos Mendes Apolinário;Superior Incompleto;Vendedor
+Membro não Comungante;13/09/2009;João Pedro Falqueti de Oliveira;Brasileira;CARIACICA;RUA;Chile nº277;Bandeirantes;(27) 8165-3071;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro Comungante;13/10/1977;Daniely Silva de Miranda Apolinário;Brasileira;VIANA;RUA;São Vicente nº04;Arlindo Vilaschi;(27)99633-6377;Casado(a);Ricardo Antônio Apolinário;Superior Incompleto;Operadora de Telemarketig
+Membro Comungante;13/11/1953;Tereza Andrade Pelegrini;Brasileira;CARIACICA;RUA;São Luiz nº15;Itangua;(27) 3386-7654;Casado(a);Paulo Roberto Pelegrini;Ensino Fundamental Completo;Aposentada
+Membro Comungante;13/12/1975;Eula Amorim Sanglard Lopes;Brasileira;VIANA;RUA;Beija Flor nº14;Universal;(27) 9885-0500;Casado(a);Asdrubal Onésio Lopes;Superior Completo;Professora
+Membro Comungante;13/12/1999;Ramon Elias Barreli;Brasileira;CARIACICA;RUA;Jose Penha nº37;São Geraldo;(27)99753-4574;Solteiro(a);;Ensino Médio Completo;Estagiario Psicologia
+Membro Comungante;14/03/1962;Suely Maria Martins G.Vasconcellos;Brasileira;CARIACICA;RUA;Celuta Chaves Julião nº133;Santa Cecilia;(27) 9966-7028;Casado(a);Paulo Cesar Vasconcelos;Superior Completo;Aposentada
+Membro Comungante;14/03/1968;Jean Claude Rezende do Amaral;Brasileira;CARIACICA;RUA;Adley nº 108;Morada de Santa Fé;(27)99932-6612;Casado(a);Sandra Simon Robers Amaral;Ensino Médio Completo;Técnico Contábil
+Membro Comungante;14/03/1984;Marcilene da Silva Santos Moté;Brasileira;VIANA;RUA;Jose de Souza nº18;Canaã;(27) 9642-2371;Casado(a);André Luiz Moté Barboza;Ensino Médio Completo;Assistente Aministrativo
+Membro Comungante;14/04/1987;Thiago Bicalho do Amaral;Brasileira;;RUA;;;(27)98879-2579;Solteiro(a);Fabiane Lima Davel Bicalho;Ensino Médio Completo;Servidor Público
+Membro não Comungante;14/06/2010;Leonardo Giavarini Brozeghini;Brasileira;CARIACICA;RUA;Sergio Cardoso nº69;Dom Bosco;(27)99842-8992;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro não Comungante;14/06/2019;Valentim Lima Davel Bicalho;Brasileira;CARIACICA;RUA;Bahia nº222;J. Campo Grande;(27)98832-9209;Solteiro(a);;Semi Alfabetizado;estudante
+Membro não Comungante;15/03/2018;Benjamin Robers Rohr;Brasileiro;VITÓRIA;RUA;Lauro Cunha Freire nº20;Bento Ferreira;(27) 9999-9107;Solteiro(a);;Menor de 6 anos;
+Membro Comungante;15/04/1942;Ana Silva Leal;Brasileira;CARIACICA;RUA;Antonio de Paula nº17;Santa Barbara;(27)99792-9606;Solteiro(a);;Ensino Fundamental Incompleto;Aposentada
+Membro Comungante;15/04/1976;Edimara Santana Lourenço;Brasileira;CARIACICA;RUA;Celina Carreira nº10;São Geraldo;(27)99271-7367;Casado(a);Gerson Lírio;Superior Completo;Enfermeira
+Membro Comungante;15/04/1999;João Victor Loureiro;Brasileira;CARIACICA;AVENIDA;José Júlio de Souza nº 3550 Ed. Enseada das Garças;Praia de Itaparica;(27) 9292-3575;Solteiro(a);;Superior Incompleto;Estudante
+Membro Comungante;15/05/1959;Anadir Cavalcanti Figueiredo;Brasileira;CARIACICA;RUA;João Buback nº 72;Cruzeiro do Sul;(27) 9991-6410;Casado(a);Elias Goncalves Figueiredo;Superior Completo;Pedagoga
+Membro Comungante;15/05/1997;Thalles Santos Cordeiro;Brasileira;VITÓRIA;LADEIRA;Dr. Bezerra de Menezes nº300;Ilha das Caieiras;(27)99282-5524;Solteiro(a);;Superior Completo;Autônomo
+Membro Comungante;15/06/1958;Ana Machado Fonseca;Brasileira;CARIACICA;RUA;Alcino Sena Dutra nº 12;Morada de Santa Fé;(27) 9525-2446;Solteiro(a);;Ensino Fundamental Completo;Diarista
+Membro Comungante;15/07/1989;Livia Neves Bremenkamp;Brasileira;CARIACICA;RUA;Santa Catarina nº37;Dom Bosco;(27) 9885-9875;Casado(a);Thamer Machado Mansour;Pós-Graduação ou Mestrado;Analista de Sistemas
+Membro Comungante;15/07/2003;Ingo Hoffmann Curti;Brasileira;CARIACICA;RUA;Granito nº37;São Geraldo;(27) 9921-1750;Solteiro(a);;Ensino Médio Incompleto;Estudante
+Membro Comungante;15/08/1976;Glorinha P. Quadros de Paula;Brasileira;CARIACICA;RUA;dos Professores nº453;Operário;(27) 9781-4521;Casado(a);Lindomar Jose de Paula;Ensino Médio Completo;Comerciante
+Membro Comungante;16/01/1983;Osiel Silverino da Silva;Brasileira;CARIACICA;RUA;Marcelino de Araujo nº88;Santana;(27) 9923-7764;Casado(a);Jenifer Karlem de Oliveira da Silva;Superior Completo;Seminarista
+Membro não Comungante;16/01/2020;Lucas Bremenkamp Mansour;Brasileira;CARIACICA;RUA;Santa Catarina nº37;Dom Bosco;(27)99885-9875;Solteiro(a);;Menor de 6 anos;
+Membro Comungante;16/03/1999;Yasmin Manuel Rodrigues;Brasileira;VILA VELHA;AVENIDA;Rio Marinho nº337;Cobilância;(27)99737-0116;Solteiro(a);;Superior Incompleto;Estudante
+Membro não Comungante;16/03/2019;Cecilia Velten Hubner;Brasileira;VIANA;RUA;São Clemente nº11;Nova Betânia;(27)99875-8348;Solteiro(a);;Menor de 6 anos;-
+Membro não Comungante;16/03/2020;Abner Corrêa Cardoso;Brasileira;CARIACICA;RUA;L Quadra 11;Nova Brasilia;(27)99639-7558;Solteiro(a);;Menor de 6 anos;
+Membro Comungante;16/04/1967;José Roberto de Pinho Andrade;Brasileira;VIANA;RUA;Guarujá nº43 Qd. 50;Marcilio de Noronha;(27)98803-9152;Casado(a);Rosânia de Nazaré Rosa Andrade;Ensino Médio Completo;Motorista de Aplicativo
+Membro Comungante;16/04/1979;Renata Martins de Souza;Brasileira;CARIACICA;RUA;Celuta Chaves Julião nº143;Santa Cecilia;(27) 9786-8090;Divorciado(a);;Superior Completo;Agente Administrativo
+Membro Comungante;16/06/1979;Karla Rupf Kuster Barcellos;Brasileira;CARIACICA;RUA;15 de Novembro;Campo Grande;(27) 9828-6820;Casado(a);Ronald Schade Barcelos;Superior Completo;Farmecêutica
+Membro Comungante;16/08/1999;Thainá Soares Nascimento de Freitas;Brasileira;CARIACICA;RUA;Bom Pastor nº 17 Ed. Tereza Apto 301;Campo Grande;(27)99262-0653;Solteiro(a);;Superior Incompleto;Estudante
+Membro Comungante;16/10/1963;Elizabeth Sabino Pimentel;Brasileira;CARIACICA;RUA;Benedito nº33;Cruzeiro do Sul;(27) 9979-3816;Divorciado(a);;Superior Completo;Administradora
+Membro Comungante;17/01/1988;Erik Sacramento Nunes;Brasileira;VILA VELHA;RUA;Rua Guaraná, nº762;Rio Marinho;(27)99741-1159;Casado(a);Eva Carolina Sobreira Nunes;Superior Incompleto;Empresário
+Membro não Comungante;17/02/2020;Valentina Endringer dos Santos Bomfim;Brasileira;VILA VELHA;RODOVIA;Do Sol, nº785, apto 310;Praia de Itaparica;(27)99941-4103;Solteiro(a);;Menor de 6 anos;
+Membro Comungante;17/03/1977;Sergio de Assis Lopes;Brasileira;CARIACICA;RUA;Granito nº39;São Geraldo;(27) 9722-2190;Casado(a);Regiana Aurick Lopes;Superior Completo;Bombeiro Militar
+Membro Comungante;17/03/1978;Sandreli Simon Robers;Brasileira;VILA VELHA;RUA;Lucio Bacelar nº290 Apto 408;Praia da Costa;(27) 9997-9178;Casado(a);Weydson Ferreia do Nascimento;Superior Completo;Professora
+Membro Comungante;17/04/1969;Willisson Malini;Brasileira;CARIACICA;RUA;Dom Pedro II 1747;Cruzeiro do Sul;(27)99978-5242;Casado(a);Noêmia Tamabara bCardoso Malini;Ensino Médio Incompleto;Tecnico Segurança do Trabalho
+Membro não Comungante;17/04/2007;Emilly Maria Vieira Tonini;Brasileira;CARIACICA;RUA;Padre Jose Carlos nº45;Campo Grande;(27) 8118-7398;Solteiro(a);;Ensino Médio Incompleto;Estudante
+Membro não Comungante;17/04/2019;Heloisa Quadros Gonçalves;Brasileira;CARIACICA;RUA;;;(27)99574-8623;Solteiro(a);;Menor de 6 anos;
+Membro Comungante;17/05/1987;Natã Tavares Sá Andrade;Brasileira;SERRA;AVENIDA;Desemb. Mario Nunes da Silva nº717, apto304 blc4;Villaggio Limoeiro;(27)99203-4080;Casado(a);Pollyanna Lara Lima Frauns;Superior Incompleto;Vendedor
+Membro Comungante;17/07/1999;Manuela da Silva Alves Bravin;Brasileira;;RUA;Paraná 214;Vila Betânia;(27) 9590-3654;Solteiro(a);;Ensino Médio Completo;Atendente
+Membro Comungante;17/08/1970;Tony Custódio Chiesquini;Brasileira;CARIACICA;RUA;São Luiz nº184;Boa Sorte;(27)99233-9630;Casado(a);Rosangela Piovezan Coiaoto;Ensino Médio Completo;Consultor de TI
+Membro Comungante;17/08/1973;Vanusa Almeida de Oliveira Botelho;Brasileira;CARIACICA;RUA;Um Amor nº05;Vila Nova;(27)99940-8748;Casado(a);Aguinaldo Jose Botelho;Ensino Médio Completo;Zeladora
+Membro Comungante;17/11/1983;Ana Lucia Machado de Paula;Brasileira;CARIACICA;RUA;Constantino Moscon nº335;Rosa da Penha;(27) 9707-5897;Casado(a);Romario  Roberto da Rocha;Ensino Médio Completo;Vendedora
+Membro Comungante;17/11/1991;Melqui Louzada de Souza;Brasileira;CARIACICA;RUA;Siqueira Campos nº78;Vila Capixaba;(27) 9869-0486;Solteiro(a);;Superior Incompleto;
+Membro Comungante;18/01/1985;Marília Ferreira da Silva;Brasileira;CARIACICA;RUA;das Violetas nº193,;Santo André;(27)98898-6911;Divorciado(a);;Superior Incompleto;Inerprete e trad de Libras
+Pastor;18/02/1984;Romulo Schade Barcellos;Brasileira;CARIACICA;RUA;15 de Novembro nº57;Campo Grande;(27) 9991-5860;Casado(a);Aline Zocoloto Souza Dutra Barcellos;Pós-Graduação ou Mestrado;
+Membro não Comungante;18/02/2014;Bernardo Manzoli Diana;Brasileira;CARIACICA;RUA;;;(27)99242-4845;Solteiro(a);;Semi Alfabetizado;
+Membro Comungante;18/03/1961;Jorge Ferreira Assis;Brasileira;CARIACICA;AVENIDA;Campo Grande nº22;Campo Grande;(27) 9824-0748;Casado(a);Maria José Rangel Sório Assis;Ensino Médio Incompleto;Comerciante
+Membro Comungante;18/05/1996;Tiago Monteiro de Andrade;Brasileira;CARIACICA;AVENIDA;Campo Grande nº 09;Campo Grande;(27)99298-0698;Casado(a);Roberta Pereira monteiro de Andrade;Ensino Médio Completo;Assist. de Vendas
+Membro Comungante;18/05/2009;Augustus Pablo Duarte Baptista;Brasileira;CARIACICA;RUA;Arthur Mazello nº145;Alto Laje;(27) 9859-4948;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro Comungante;18/06/1942;Flaurindo Ewald;Brasileira;CARIACICA;RUA;João Bubach nº88;Cruzeiro do Sul;(27) 9723-7202;Casado(a);Florinda Frederico Ewald;Ensino Fundamental Incompleto;Marcineiro
+Membro Comungante;18/06/1984;Stephanie Ribeiro Campista Santos;Brasileira;CARIACICA;RUA;Santa Catarina nº37;Rio Branco;(27)99837-3905;Casado(a);Alex Almeida Santos;Superior Completo;Assist. Social
+Membro Comungante;18/06/1988;Tatiane Quadros do Nascimento;Brasileira;CARIACICA;RUA;Império da Vila nº293;Santa Barbara;(27)99574-8623;Casado(a);Maciel dos Santos Gonçalves;Superior Completo;Auxiliar Administrativo
+Membro Comungante;18/07/1971;Laercio Muzzi Campos;Brasileira;CARIACICA;RUA;Ipanema nº29;Morada de Santa Fé;(27) 9641-4596;Casado(a);Joseiane Xavier Thelau;Superior Completo;Jornalista
+Membro Comungante;18/08/1956;Maria das Graças do Espirito Santo;Brasileira;CARIACICA;AVENIDA;Expedito Garcia nº 31;Campo grande;(27)99921-5982;Solteiro(a);;Ensino Fundamental Incompleto;Do lar
+Membro Comungante;18/08/1970;Katia Regina de Oliveira Curti;Brasileira;CARIACICA;RUA;Granito nº35;São Geraldo;(27) 9924-2710;Casado(a);Jader machado Curti;Ensino Médio Completo;Do Lar
+Membro Comungante;18/11/1944;Shirley Maria Valentim Paulo;Brasileira;CARIACICA;RUA;Pio XII nº48;Campo Grande;(27) 9899-0011;Casado(a);Arildo Paulo;Superior Incompleto;Aposentada
+Membro Comungante;18/11/1972;Waleska Christina Ferreira Rocha Graceli;Brasileira;CARIACICA;RUA;Otávio Cardoso de Alcântara nº119;Morada de Santa Fé;(27)99734-2788;Casado(a);José Antonio Graceli;Superior Completo;Advogada
+Membro não Comungante;18/11/2013;Isabela Rais Silva;Brasileira;VIANA;RUA;Nossa Senhora de Fátima nº35;Arlindo Vilasck;(27) 9931-4077;Solteiro(a);;Semi Alfabetizado;Estudante
+Membro não Comungante;18/11/2019;Sara Caroliny Santos Silva Barbosa;Brasileira;;RUA;;;(27)98854-9004;Solteiro(a);;Menor de 6 anos;
+Membro Comungante;18/12/2000;Kamila Danieletto Pereira;Brasileira;CARIACICA;RUA;José Pena nº57;São Geraldo;(27) 9921-1444;Solteiro(a);;Ensino Médio Completo;
+Membro Comungante;19/01/1984;Fagner Nascimento Lima;Brasileira;CARIACICA;RUA;Santa Barbara nº↓272;Rosa da Penha;(27)99877-1871;Casado(a);Viviani Pezzin da Silva Lima;Pós-Graduação ou Mestrado;Professor de Matemática
+Membro Comungante;19/01/1988;Anielle Fiorentini Uliana de Freitas;Brasileira;CARIACICA;RUA;João Bonadiman 133;São Francisco;(27)99827-0659;Casado(a);Adilson Freitas Junior;Superior Completo;Assistente Social
+Membro Comungante;19/02/1993;Eduardo Loureiro Teles;Brasileira;CARIACICA;RUA;Aracaju nº117;Rio Branco;(27)99749-2258;Casado(a);Sara Costa de Souza Teles;Superior Completo;Advogado
+Membro Comungante;19/02/1998;Fábio Gabriel do E. S. Miranda;Brasileira;CARIACICA;AVENIDA;Expedito Garcia 31;Campo Grande;(27) 9921-5982;Solteiro(a);;Superior Incompleto;Aux. Depto Pessoal
+Membro Comungante;19/04/1977;Ricardo Antônio Apolinário;Brasileira;VIANA;RUA;São Vicente nº04;Arlindo Vilaschi;(27)99767-6465;Casado(a);Daniely Silva de Miranda Apolinário;Superior Completo;Tecnólogo em Logistica
+Membro Comungante;19/09/1979;Priscilla Karen Duarte;Brasileira;CARIACICA;RUA;Arthur Manzelli nº145;Alto Laje;(27) 9859-4948;Divorciado(a);;Superior Completo;Professora
+Membro Comungante;19/09/1988;Welker do Espirito Santo Miranda;Brasileira;CARIACICA;AVENIDA;Expedito Garcia nº31;Campo Grande;(27)99856-9619;Solteiro(a);;Superior Completo;Professor
+Membro Comungante;19/10/1960;Luiz Carlos Bentes do Nascimento;Brasileira;CARIACICA;RUA;Antonio de Paula nº17;Santa Barbara;(27) 9948-4799;Casado(a);Edma Leal Bentes do Nascimento;Ensino Médio Completo;Gerente supermercado
+Membro Comungante;19/10/1977;Sheila Rezende Parmagnani;Brasileira;CARIACICA;RUA;Bom Pastor nº05;Campo Grande;(27) 9892-5831;Casado(a);Crystiano Magno Zandonaide Parmagnani;Superior Incompleto;Advogada
+Membro Comungante;19/10/1992;Ariany Bautz Hollunder;Brasileira;VITÓRIA;RUA;Coronel Alziro Viana nº 383;Centro;(27)99743-0306;Casado(a);Thiago Aguiar G.Silva;Ensino Médio Completo;Do Lar
+Membro não Comungante;20/01/2016;Calebe Sobreira Nunes;Brasileira;VILA VELHA;RUA;Guaraná nº762;Rio Marinho;(27)99841-1159;Solteiro(a);;Semi Alfabetizado;Estudante
+Membro não Comungante;20/01/2016;Laura Cesar Malini;Brasileira;CARIACICA;RUA;Maria das Dores Machado nº09;Campo Grande;(27)99927-7740;Solteiro(a);;Menor de 6 anos;
+Membro Comungante;20/03/1965;Júlio Martins Neto;Brasileira;VIANA;FAZENDA;Peixes S/Nº;Formate;(27)99947-8178;Solteiro(a);Eloiza Barcellos Patrocínio Martins;Ensino Fundamental Incompleto;Autônomo
+Membro Comungante;20/03/1977;Vanessa Rosa de Oliveira Javarini;Brasileira;CARIACICA;RUA;Amazonas nº96;Itapemerim;(27) 9993-5942;Casado(a);Jose Luiz Javarini;Ensino Fundamental Completo;Atendente de farmácia
+Membro não Comungante;20/05/2019;Lorenzo Hollunder Aguiar;Brasileira;VITORIA;RUA;Coronel Alziro Viana nº383;Centro;(27)99743-0306;Solteiro(a);;Menor de 6 anos;estudante
+Membro Comungante;20/07/1986;Thamer Machado Mansour;Brasileira;CARIACICA;RUA;Santa Catarina nº37;Dom Bosco;(27) 9906-0624;Casado(a);Livia Neves Bremenkamp;Superior Completo;Analista de Redes
+Membro Comungante;20/09/1963;Gilson Matheus Franco;Brasileira;CARIACICA;RUA;Claricio Alves Ribeiro nº100;Itangua;(27) 9890-0008;Casado(a);Elizabeth de Souza Franco;Ensino Médio Completo;Representante Comercial
+Membro Comungante;20/10/1976;Jussara Duarte Mendes;Brasileira;CARIACICA;RUA;Larga nº09;Santa Fé;(27) 9773-7394;Casado(a);Sergio Lúcio Mendes;Superior Completo;Gerene Financeiro
+Membro Comungante;20/11/1979;Valdiléia Souza dos Santos Cardoso;Brasileira;CARIACICA;RUA;Canopos nº;Cruzeiro do Sul;(27) 9641-4058;Casado(a);Natanael Cardoso Filho;Superior Completo;Guarda Municipal
+Membro Comungante;20/11/1988;Bernardo Loppez da Silva;Brasileira;VIANA;AVENIDA;Piracicaba nº12 Quadra 53;Marcilio de Noronha;(27) 9977-5976;Solteiro(a);;Superior Completo;Prof. Educ. Física
+Membro Comungante;20/11/1992;Angélica Dias Santos;Brasileira;CARIACICA;RUA;Rua Santa Leopoldina nº 30;Vila Capixaba;(27) 9922-6407;Solteiro(a);;Superior Completo;Psicóloga
+Membro Comungante;20/12/1967;Carlos Henrique Motta Gomes;Brasileira;CARIACICA;RUA;Canópos nº 02;Morada de Santa Fé;(27)99877-3989;Casado(a);Danise Simon Robers Gomes;Superior Completo;Pedagôgo
+Membro Comungante;20/12/1978;Michele Pereira de Oliveira Aguilar;Brasileira;CARIACICA;RUA;Constância Novaes nº25;Alto Lage;(27) 9809-4269;Casado(a);Avanir Aguilar dos Santos;Pós-Graduação ou Mestrado;Professora
+Membro Comungante;21/01/1941;Florinda Frederico Ewald;Brasileira;CARIACICA;RUA;João Bubach nº 88;Cruzeiro do Sul;(27)99954-9473;Casado(a);Flaurindo Ewald;Ensino Fundamental Incompleto;Aposentada
+Membro Comungante;21/01/1947;Ermínio Alves Coutinho;Brasileira;CARIACICA;RUA;da Matriz nº44;São Geraldo;(27) 9276-7768;Casado(a);Irenilda L. Santos Coutinho;Ensino Médio Incompleto;Aposentado
+Membro Comungante;21/01/1976;Simone Lopes da Silva;Brasileira;CARIACICA;RUA;Professor Jadilson Costa de Almeida nº22 Apto 203;Morada de Santa Fé;(27) 9999-2123;Casado(a);Claudio Roberto Almeida de Melo;Ensino Médio Completo;Empresária
+Membro Comungante;21/01/1979;Andreson de Oliveira Santos;Brasileira;CARIACICA;RUA;Otávio Cardoso de Alcântara nº 53;Morada de Santa Fé;(27)99711-2270;Casado(a);Soenne Salaroli de Souza Oliveira;Superior Completo;Bancário
+Membro Comungante;21/01/2010;Gabriel Rais Silva;Brasileira;VIANA;RUA;Nossa Senhora de Fatima nº35;Arlindo Vilasck;(27) 9931-4077;Solteiro(a);;Ensino Fundamental Completo;Estudante
+Membro Comungante;21/03/1994;Daniela Almeida de Oliveira Botelho;Brasileira;CARIACICA;RUA;Um Amor nº05;Vila Nova;(27) 9935-4355;Casado(a);Dheimeson Paulo de Oliveira;Superior Completo;Analista Administrativo
+Membro não Comungante;21/04/2011;Rebeca Uliana de Freitas;Brasileira;CARIACICA;RUA;João Bonadman nº133;São Francisco;(27)99827-0659;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro Comungante;21/10/1976;Edilane Ribeiro Airão Costa;Brasileira;CARIACICA;RUA;Rua Duque de Caxias nº34;Rosa da Penha;(27)99609-2962;Casado(a);Alcenir Costa;Superior Incompleto;Do lar
+Membro Comungante;21/10/1977;Wellington do Carmo Cardoso;Brasileira;CARIACICA;RUA;L quadra nº11;Nova Brasilia;(27) 9802-1084;Casado(a);Sheilane Correa Cardoso;Superior Completo;Tecnico de Operações
+Membro Comungante;21/12/1977;João Luiz Pavani;Brasileira;CARIACICA;RUA;Rondônia nº151;Campina Grande;(27)99822-8595;Casado(a);Elaine Cristina Rossi Pavani;Pós-Graduação ou Mestrado;Professor
+Membro Comungante;21/12/1978;Claudiene Ferreira Miler;Brasileira;;RUA;;;(27)99849-9457;Solteiro(a);;;
+Membro não Comungante;21/12/2009;Pedro Vitor Kuster Barcellos;Brasileira;CARIACICA;RUA;15 de Novembro nº57;Campo Grande;(27) 9828-6820;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro Comungante;22/02/2001;Júlia de Sá Rohr Lima;Brasileira;CARIACICA;RUA;Amazonas;Jardim América;(27)99253-5626;Solteiro(a);;Ensino Médio Completo;Estudante
+Membro Comungante;22/03/1988;Sheilane Correa Cardoso;Brasileira;CARIACICA;RUA;L quadra Q nº11;Nova Brasília;(27) 9639-7558;Casado(a);Wellington do Carmo Cardoso;Pós-Graduação ou Mestrado;Psicóloga
+Membro Comungante;22/04/1984;Fernanda Giavarini Brozeghini;Brasileira;CARIACICA;RUA;Sergio Cardoso nº 69;Dom Bosco;(27)99842-8992;Casado(a);Clauiomir Novais Brozeghini;Superior Completo;Farmacêutica
+Membro Comungante;22/04/1987;Cristiano dos Anjos Silva;Brasileira;CARIACICA;RUA;Ibiraçu nº13;Bandeirantes;(27)99625-2991;Casado(a);Diéssica de Almeida Nunes dos Anjos;Superior Completo;Administrador
+Membro Comungante;22/04/1990;Lorena Gianizeli de Cerqueira Teles;Brasileira;CARIACICA;RUA;Um nº172;Maracanã;(27)99995-9472;Casado(a);Douglas Teles de Almeida;Superior Completo;Professora
+Membro Comungante;22/06/1994;Luiz Henrique Stinghel Galvão;Brasileira;CARIACICA;RUA;8 Irmãos nº03;Crueiro do Sul;(27)99895-1204;Casado(a);Jheniffer Cristina Freitas Bolsoni;Superior Completo;Empresário
+Membro não Comungante;22/06/2012;Isaque Santos Silva Barbosa;Brasileira;CARIACICA;RUA;Moreira Camargo nº10;Campo Grande;(27) 8809-2500;Solteiro(a);;Semi Alfabetizado;Estudante
+Membro não Comungante;22/07/2006;Desirié Souza Miranda Cardoso;Brasileira;CARIACICA;RUA;Canópos nº05;Cruzeiro do Sul;(27)99641-4058;Solteiro(a);;Ensino Médio Incompleto;Estudante
+Membro Comungante;22/08/2008;Kalebe Danieletto Pereira;Brasileira;CARIACICA;RUA;José Pena nº57;São Geraldo;(27)98151-6666;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro não Comungante;22/09/2018;Theo Manzoli Diana;Brasileira;CARIACICA;RUA;;;(27)99242-4845;Solteiro(a);;Menor de 6 anos;
+Membro Comungante;22/10/1973;Claudio Roberto Almeida de Melo;Brasileira;CARIACICA;RUA;Professor Jadilson Costa de Almeida nº 22 Apto 203;Morada de Santa Fe;(27)99787-5444;Casado(a);Simone Almeida de Melo;Superior Incompleto;Vidraceiro
+Membro Comungante;22/11/1937;Cecilia do Rosario Martins;Brasileira;CARIACICA;RUA;Domingos nº 31;Cruzeiro do Sul;(27)99773-4842;Viúvo(a);;Ensino Fundamental Incompleto;Aposentada
+Membro Comungante;23/01/1980;Izaque Rohr Pereira Lima;Brasileira;CARIACICA;RUA;Lauro Cunha Freire nº20 Res. Bento Ferreira ap 100;Cruzeiro do Sul;(27) 9922-8328;Casado(a);Danusa Simon Robers;Superior Completo;Servidor Público - PRF
+Membro Comungante;23/01/1986;Douglas Teles de Almeida;Brasileira;CARIACICA;RUA;Um nº172;Maracanã;(27)99952-9555;Casado(a);Lorena Gianizeli de Cerqueira Teles;Ensino Médio Completo;Técnico Áudio Visual
+Membro Comungante;23/02/1974;Paulo Cesar S.O.Junior;Brasileira;CARIACICA;RUA;Santa Fé nº11;Vila Palestina;(27) 9795-9294;Casado(a);Mychelle Caran Contarato;Superior Completo;Representante Comercial
+Membro não Comungante;23/02/2010;Estela Robers Amaral;Brasileira;CARIACICA;RUA;Adley nº 08;Morada de Santra Fé;(27)99826-8079;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro Comungante;23/04/1978;Kerli Caldonho Herpet Monjardim;Brasileira;CARIACICA;RUA;Ormy Batista Moreira nº05;Santa Bárbara;(27) 8115-7705;Casado(a);Jean Pinto Monjardim;Pós-Graduação ou Mestrado;Professora
+Membro Comungante;23/06/1982;Adilson de Freitas Junior;Brasileiro;CARIACICA;RUA;João Bonadiman nº 133;São Francisco;(27)99906-1921;Casado(a);Anielle Fiorentini Uliana de Freitas;Superior Completo;Enfermeiro
+Membro Comungante;23/06/1996;Kezia Dias Miler;Brasileira;CARIACICA;RUA;Eclipse do Sol nº09;Jardim Campo Grande;(27) 9690-8323;Solteiro(a);;Ensino Médio Completo;Atendente Farmácia
+Membro Comungante;23/07/1982;Ana Paula Santos da Fonseca;Brasileira;CARIACICA;RUA;Odonia da Costa Machado Toledo n 311;Santa Barbara;(27)99740-1859;Casado(a);Alexandre Oliveira Fonseca;Superior Completo;
+Membro Comungante;23/09/1951;Martha Eleotério;Brasileira;CARIACICA;RUA;Castelo nº05;Vila Capixaba;(27) 8145-3044;Casado(a);Milton Eleoterio de Jesus;Ensino Fundamental Incompleto;
+Membro não Comungante;23/10/2012;Enzo Delucas Mota;Brasileira;CARIACICA;RUA;Waldemar Siepierski nº100 lobo 2 Apto 801;Rio Branco;(27)99740-4380;Solteiro(a);;Semi Alfabetizado;Estudante
+Membro não Comungante;23/10/2012;Lara Gianizeli Firme;Brasileira;CARIACICA;RUA;Da Matriz;São Geraldo;(27)99736-4738;Solteiro(a);;Ensino Fundamental Incompleto;
+Membro Comungante;23/12/1982;Marcos Thiago Bidim;Brasileira;VILA VELHA;AVENIDA;José Júlio de Souza nº 3550 Ed. Enseada das Garças;Praia de Itaparica;(27) 9863-5201;Casado(a);Paula Renata L. de Oliveira Loureiro Bidim;Superior Completo;Representante Comercial
+Membro Comungante;24/01/1985;Regiana Aurich Lopes;Brasileira;CARIACICA;RUA;Granito nº39;São Geraldo;(27)99722-1790;Casado(a);Sergio de Assis Lopes;Superior Completo;Prof. Educ. Física
+Membro não Comungante;24/01/2019;Heloise Souza Miranda Cardoso;Brasileira;;RUA;;;(27)99641-4058;Solteiro(a);;Menor de 6 anos;
+Membro Comungante;24/03/1995;Rodrigo Souza Castro;Brasileira;VITÓRIA;RUA;Wilson Tolledo nº417;Santo André;(27)99777-3256;Solteiro(a);;Superior Completo;Tec. em Manutenção
+Membro Comungante;24/05/1945;Palmira Alves Danieletto;Brasileira;CARIACICA;RUA;Jose Pena nº57;São Geraldo;(27) 9954-8733;Divorciado(a);;Ensino Fundamental Completo;Aposentada
+Membro Comungante;24/05/1966;Eloiza Barcellos Patrocínio Martins;Brasileira;VIANA;FAZENDA;Peixes S/Nº;Formate;(27)99865-2561;Casado(a);Júlio Martins Neto;Ensino Médio Completo;Militar aposentada
+Membro Comungante;24/05/1973;Adeilton do Carmo Pereira;Brasileiro;CARIACICA;RUA;Manaus  nº 81;Itapemerim;(27)99291-0409;Casado(a);Valdineia Oliveira Torres Pereira;Ensino Fundamental Incompleto;Porteiro
+Membro Comungante;24/05/1976;Sandra Simon Robers Amaral;Brasileira;CARIACICA;RUA;Adley nº108;Morada de Santa Fé;(27) 9826-8079;Casado(a);Jean Claude Rezende do Amaral;Superior Completo;Bancário Economiário
+Membro Comungante;24/06/1960;Jonair Martins Gomes;Brasileira;CARIACICA;RUA;Celuta Chaves Julião nº143;Santa Cecilia;(27) 9607-6333;Solteiro(a);;Ensino Médio Completo;Porteiro
+Membro Comungante;24/06/1987;Fabiane Lima Davel Bicalho;Brasileira;;RUA;;;(27)98832-9209;Solteiro(a);;Superior Completo;Administradora
+Membro Comungante;24/07/1949;Edmilson Barcelos Militão;Brasileira;CARIACICA;RUA;Francisco Alves;Campo Grande;(27) 9937-6867;Casado(a);Valdinete Cardoso Militão;Ensino Médio Incompleto;Aposentado
+Membro Comungante;24/07/1974;Juliana Gonçalves de Oliveira;Brasileira;VIANA;RUA;Getulio Vargas nº12;Vila Betânia;(27) 9812-9168;Casado(a);Elias Rodrigues Barbosa;Superior Completo;Professora
+Membro Comungante;24/08/1974;Jean Pinto Monjardim;Brasileira;CARIACICA;RUA;Ormy Batista Moreira nº05;Santa Barbara;(27) 8149-1633;Casado(a);Kerli Caldonho Herpet  Monjardim;Pós-Graduação ou Mestrado;Servidor Público - 1º Sargento da PM
+Membro Comungante;24/08/1985;Daniele Alves Salla Wagner;Brasileira;CARIACICA;RUA;Monte Calvário nº81;Vila Palestina;(27)99914-7123;Separado(a);;Superior Incompleto;Estagiária
+Membro Comungante;24/10/1986;Darlan Oliveira Bomfim;Brasileira;VIANA;RUA;R nº 70;Campo Verde;(27) 9707-6820;Casado(a);Adriana Endringer dos Santos Bomfim;Superior Completo;Engen. Segurança do Trabalho
+Membro não Comungante;24/11/2004;Heitor Róbers Gomes;Brasileira;CARIACICA;RUA;Canópos nº02;Cruzeiro do Sul;(27) 9905-7199;Solteiro(a);;Ensino Médio Incompleto;Estudante
+Membro Comungante;24/12/1958;Maria Regina Campanha Vargas;Brasileira;CARIACICA;RUA;15 de Novembro;Campo Grande;(27) 9742-1667;Casado(a);Orli de Vargas Silva;Ensino Médio Completo;Do Lar
+Membro Comungante;25/02/1973;Vanusa Aparecida Inocente Santos;Brasileira;CARIACICA;RUA;7 de Setembro nº110;Rosa da Penha;(27) 9852-1606;Solteiro(a);;Ensino Médio Completo;Operadora de Caixa
+Membro Comungante;25/02/1975;Oldair Jose da Silva;Brasileira;VIANA;RUA;Nossa Senhora de Fátima nº35;Arlindo Vilasch;(27) 9885-4443;Casado(a);Elaine Abreu Rais Silva;Superior Completo;Autônomo
+Membro Comungante;25/03/1998;Bianca Alves Rodrigues;Brasileira;CARIACICA;AVENIDA;Amélia Siqueira nº03;Flexal I;(27)98844-9519;Solteiro(a);;Superior Incompleto;Projetista
+Membro Comungante;25/04/1967;Walmira Alves Danieletto Ribeiro;Brasileira;CARIACICA;RUA;Coleiro 46;São Conrrado;(27) 9715-8280;Casado(a);Kleber Oliveira Ribeiro;Ensino Médio Completo;Analista Financeiro
+Membro Comungante;25/05/1996;Arthur Luís Loureiro;Brasileira;CARIACICA;RUA;Santa Fé nº10 Apto302;Vila Palestina;(27)99863-7168;Casado(a);Jailiny de Souza da Luz Loureiro;Superior Completo;Advogado
+Membro não Comungante;25/05/2012;Eduarda Tavares de Aguilar;Brasileira;CARIACICA;RUA;Anatildes Passos Costa nº51;Campo Grande;(27)99929-1956;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro Comungante;25/06/1995;Adriana Endringer dos Santos Bomfim;Brasileira;VILA VELHA;RODOVIA;Do Sol nº785, apto 310;Praia de Itaparica;(27)99941-4103;Casado(a);Darlan Oliveira Bomfim;Superior Incompleto;Gerente Administrativo
+Membro não Comungante;25/06/2021;Anna de Souza Ribeiro;Brasileira;CARIACICA;RUA;Waldermar Siepiereski nº100 Torre 3 apt 106;Dom Bosco;(27)99291-9757;Solteiro(a);;Menor de 6 anos;
+Membro Comungante;25/08/1921;Athalia Sathler de Oliveira;Brasileira;CARIACICA;RUA;Canópos nº 52;Morada de Santa Fé;(27) 3396-4398;Viúvo(a);;Semi Alfabetizado;Aposentada
+Membro Comungante;25/08/1978;Carlos Eduardo Carvalho da Silva;Brasileira;VIANA;RUA;Sorocaba nº05, Quadra 35;Marcílio de Noronha;(27)99781-4529;Casado(a);Mislene D'Oliveira de Alencar;Superior Incompleto;Func. Público
+Membro Comungante;25/08/1994;Lidia Diana Pimentel;Brasileira;CARIACICA;RUA;Equador nº1;Campina Grande;(27) 9740-6058;Divorciado(a);Felipe Tirino;Superior Completo;Consultora
+Membro Comungante;25/11/2004;Mateus de Souza Vidal;Brasileira;CARIACICA;RUA;Uruguai 54;Santa Paula;(27) 9660-3340;Solteiro(a);;Ensino Médio Incompleto;Estudante
+Membro Comungante;26/01/1982;David Schwanz Garcia;Brasileira;CARIACICA;RUA;Granito nº05;São Geraldo;(27) 9913-0876;Casado(a);Pretila Pretti Garcia;Ensino Médio Completo;Ag.Segurança Penitenciario
+Membro Comungante;26/02/1957;Edna Francisco de Souza Ramos;Brasileira;CARIACICA;RUA;Jerônimo Monteiro nº25;Morada de Santa Fé;(27) 9943-8936;Casado(a);Manoel Candido Ramos;Ensino Médio Completo;Aposentada
+Membro não Comungante;26/02/2011;Mateus Cardoso Malini;Brasileira;CARIACICA;RUA;Dom Pedro II nº1747;Cruzeiro do Sul;(27)99911-4442;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro Comungante;26/03/1974;Josiane Xavier Theláu Campos;Brasileira;CARIACICA;RUA;Ipanema nº29;Morada de Santa Fé;(27) 9750-5615;Casado(a);Laércio Muzzi Campos;Pós-Graduação ou Mestrado;Professora
+Membro Comungante;26/03/1982;Janderneide Francisco Louzada Pinto;Brasileira;CARIACICA;RUA;Frederico Simonasse nº29;Vila Capixaba;(27) 9954-2279;Casado(a);Ricardo de Amorim Pinto;Superior Completo;Professora
+Membro não Comungante;26/03/2012;Felipe Rocha Graceli;Brasileira;CARIACICA;RUA;Otávio Cardoso de Alcântara nº119;Morada de Santa Fé;(27)99734-2788;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro não Comungante;26/04/2018;Pietro Cesar Malini;Brasileira;CARIACICA;RUA;Maria das Dores Machado;Campo Grande;(27)99927-7740;Solteiro(a);;Menor de 6 anos;estudante
+Membro Comungante;26/05/1978;Mislene D'Oliveira de Alencar;Brasileira;VIANA;RUA;Sorocaba nº05, Qud 35;Marcílio de Noronha;(27)99881-8547;Casado(a);Carlos Eduardo Carvalho da Silva;Superior Completo;Pedagoga
+Membro Comungante;26/06/1974;Carlos Henrique de Oliveira Benevides;Brasileira;VILA VELHA;RUA;Joaquim Bernardino nº681;Rio Marinho;(27)99896-8745;Casado(a);Viviany Maria meira Benevides;Superior Incompleto;Autônomo
+Membro Comungante;26/06/1990;Hudson Barreto de Oliveira;Brasileira;CARIACICA;RUA;Maria Paiva nº495;São Geraldo;(27)98842-3842;Casado(a);Emmanuelly Marques dos Santos Barreto;Ensino Médio Completo;Garagista
+Membro Comungante;26/07/1981;Thiago Aguiar G.Silva;Brasileira;VITÓRIA;RUA;Coronel Alziro Viana nº383;Centro;(27) 9318-7085;Casado(a);Ariany Bautz Hollunder;Superior Completo;Técnico de Mecânica
+Membro Comungante;26/07/1991;Eva Carolina Sobreiro Nunes;Brasileira;VILA VELHA;RUA;Guaraná nº762;Rio Marinho;(27)99841-1159;Casado(a);Erik Sacramento Nunes;Ensino Médio Completo;
+Membro não Comungante;26/08/2014;Ana Beatriz Santos Fonseca;Brasileira;CARIACICA;RUA;Odonia da Costa Machado Toledo n 311;Santa bárbara;(27)99740-1859;Solteiro(a);;Menor de 6 anos;Estudante
+Membro não Comungante;26/09/2013;Matheus Rodrigues Pereira;Brasileira;CARIACICA;RUA;Alegre 207;Vila Capixaba;(27) 9774-6852;Solteiro(a);;Semi Alfabetizado;Estudante
+Membro Comungante;26/10/1958;Lourdes Zocoloto da Silva;Brasileira;CARIACICA;RUA;15 de Novembro;;(27) 9743-1454;Casado(a);João Batista de Souza Dutra;Ensino Médio Completo;Aposentada
+Membro Comungante;26/11/1983;Micheli Soares Velten Hubner;Brasileira;VIANA;RUA;Saõ Clemente nº11;Nova Betânia;(27)99875-8348;Casado(a);Gustavo Pereira de Oliveira Hubner;Ensino Médio Completo;Cabelereira / Depiladora/ Des. Sombrancelhas
+Membro Comungante;26/12/1985;Daniel Silva Cunha;Brasileira;CARIACICA;RUA;Rua das Camomilas nº01;Saanto André;(27)99969-8261;Casado(a);Aline Francieli de Oliveira;Superior Completo;Empresário
+Membro Comungante;27/03/1952;Jader Adame Louzada;Brasileira;CARIACICA;RUA;Siqueira Campos nº15;Vila Capixaba;(27) 9964-7975;Casado(a);Maria de Lourdes F.Gonçalves Louzada;Ensino Fundamental Incompleto;Aposentado
+Membro não Comungante;27/05/2007;Lara Rezende Parmagnani;Brasileira;CARIACICA;RUA;Bom Pastor nº05;Campo Grande;(27) 9750-4469;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro Comungante;27/06/1976;Fernanda da Silva Vieira;Brasileira;CARIACICA;RUA;Celina Carreira nº11;São Geraldo;(27) 9776-2701;Casado(a);Nilton Cesar Ribeiro Soares;Superior Completo;Assistente Social
+Membro Comungante;27/08/1989;Karina Scardua Pereira Dellacqua;Brasileira;CARIACICA;RUA;Francelina Correa de jesus nº65 ap403 Ed.B.Augusta;Campo Grande;(27)99835-1239;Casado(a);Iago Scardua Pereira;Superior Completo;Aux. Administrativo
+Membro não Comungante;27/08/2019;Lorenzo de Oliveira Hibner Aguilar;Brasileira;;RUA;;;(27)99809-4269;Solteiro(a);;Menor de 6 anos;
+Membro não Comungante;27/08/2019;Victor de Oliveira Hibner Aguiar;Brasileira;;RUA;;;(27)99809-4269;Solteiro(a);;Menor de 6 anos;
+Membro Comungante;27/09/1958;Marluce Almeida Vieira;Brasileira;CARIACICA;RUA;Papuçu  nº;São Geraldo;(27)99912-2709;Casado(a);Elias Hilário Vieira;Ensino Fundamental Completo;Servente
+Membro não Comungante;27/09/2011;Davi Lucas Aurich Lopes;Brasileira;CARIACICA;RUA;Granito nº39;São Geraldo;(27)99722-1790;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro Comungante;28/01/1978;Natanael Cardoso Filho;Brasileira;CARIACICA;RUA;Canopolis nº05;Cruzeiro do Sul;(27) 8139-8740;Casado(a);Valdileia Souza dos Santos Cardoso;Superior Completo;Agente Penitenciário
+Membro Comungante;28/02/1985;Evandro Silva de Oliveira;Brasileira;CARIACICA;RUA;João Rodrigues Filho s/n;Cariacica Sede;(27)99631-0988;Casado(a);Larissa Gianizeli de Cerqueira de Oliveira;Ens. Médio Completo;Montador de Móveis
+Membro Comungante;28/02/1993;Nathan Domingos Fagundes;Brasileira;CARIACICA;AVENIDA;Getulio Vargas;;(27)99998-8093;Solteiro(a);;Superior Completo;Engenheiro Mecânico
+Membro Comungante;28/02/1996;Eliana Santos Mendes Apolinário;Brasileira;VIANA;RUA;Francisco Alves nº22;Vila Betânia;(27)98112-2794;Casado(a);Ricardo Antonio Apolinário Junior;Superior Incompleto;Estudante
+Membro Comungante;28/02/1998;Juliana das Neves Corrêa;Brasileira;CARIACICA;RUA;Eclipse do Sol nº 10;Jardim Casmpo Grande;(27)99841-8279;Solteiro(a);;Ensino Médio Completo;
+Membro Comungante;28/04/1964;Nelci Pedro Mestre Pereira;Brasileira;CARIACICA;RUA;Santa Catarina nº37 apto 202, torre 5;Rio Branco;(27)99602-4952;Casado(a);Alice dos Santos Cezar Pereira;Ensino Fundamental Completo;Marceneiro
+Membro Comungante;28/04/1983;Dione Ramos da Silva;Brasileira;CARIACICA;RUA;Concórdia nº 05;Morada de Santa Fé;(27) 9702-9545;Casado(a);Marta Maria Emilio;Ensino Fundamental Incompleto;Ajudante geral
+Membro Comungante;28/05/1993;Nayara Sório Assis;Brasileira;CARIACICA;AVENIDA;Campo Grande;Campo Grande;(27)98125-2313;Solteiro(a);;Pós-Graduação ou Mestrado;Logista
+Membro Comungante;28/07/1993;Deidson da Silva Effgen;Brasileira;CARIACICA;RUA;Alegre S/N;Sotelândia;(27) 9848-8831;Casado(a);Rafaela de Lima Stofel Effgen;;Radialista
+Membro Comungante;28/07/1995;Luiza de Almeida Galvão;Brasileira;CARIACICA;RUA;Mercúrio nº12;Cruzeiro do Sul;(27) 9202-9704;Solteiro(a);;Superior Completo;
+Membro não Comungante;28/07/2018;Arthur Samuel S. Silva Barbosa;Brasileira;;RUA;;;(27)98854-9004;Solteiro(a);;Menor de 6 anos;
+Membro Comungante;28/08/1968;Rosânia de Nazaré Rosa Andrade;Brasileira;VIANA;RUA;Guarujá Qd.50, Casa 43;Marcílio de Noronha;(27)99635-0266;Casado(a);José Roberto de Pinho Andrade;Ensino Médio Completo;Tec. De Enfermagem
+Membro Comungante;28/09/1993;Anne Kelly Souza de Barros;Brasileira;CARIACICA;RUA;Santa Maria nº67;São Geraldo;(27)99760-6967;Casado(a);Gabriel Boone de Souza;Superior Completo;Enfrmeira
+Membro não Comungante;28/09/2011;Pietra Pretti Garcia;Brasileira;CARIACICA;RUA;Granito nº05;São Geraldo;(27) 9227-2821;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro Comungante;28/10/1979;Alexandre Oliveira da Fonseca;Brasileira;CARIACICA;RUA;Odonia da Costa Machado Toledo nº36;Santa Barbara;(27)99948-5979;Casado(a);Ana Paula Santos da Fonseca;Superior Completo;Tec.de Informática
+Membro Comungante;28/11/1963;Maria José Rangel Sório Assis;Brasileira;CARIACICA;AVENIDA;Campo Grande nº22;;(27)99521-0752;Casado(a);Jorge Ferreira Assis;Ensino Médio Completo;Comerciante
+Membro Comungante;28/11/1996;Juliana Sório Assis;Brasileira;CARIACICA;AVENIDA;Campo Grande nº 22;Campo Grande;(27) 9868-1180;Solteiro(a);;Superior Incompleto;
+Membro Comungante;29/02/1956;Nildete Gomes Pereira;Brasileira;CARIACICA;RUA;Pio XII;Campo Grande;(27) 9776-9757;Solteiro(a);;Ensino Médio Completo;Aposentada
+Membro Comungante;29/04/1953;Maria Pompermayer;Brasileira;CARIACICA;RUA;Dona Tereza nº03;Morada de Santa Fe;(27) 9920-1005;Casado(a);Jose Armenio Almeida de Oliveira;Ensino Médio Completo;Aposentada
+Membro Comungante;29/04/1966;Alice dos Santos Cezar Pereira;Brasileira;CARIACICA;RUA;Santa Catarina nº37 apto 202, torre 5;Rio Branco;(27)98862-1142;Casado(a);Nelci Pedro Mestre Pereira;Superior Completo;Professora Aposentada
+Membro não Comungante;29/04/2014;Milena Batista Babinsk;Brasileira;CARIACICA;RUA;Rogério Pombo nº55;Jardim America;(27)99242-2775;Solteiro(a);;Menor de 6 anos;Estudante
+Membro não Comungante;29/04/2021;Murilo Rossi Pavani;Brasileira;;RUA;;;(27)99932-0285;Solteiro(a);;Menor de 6 anos;
+Membro Comungante;29/05/1999;Kevin Sather Silva de Oliveira;Brasileira;CARIACICA;RUA;Presidente Kennedy nº65 Apto105;Campo Grande;(27) 9921-7955;Solteiro(a);;Ensino Médio Completo;
+Membro não Comungante;29/07/2010;Ana Clara Xavier Thelau dos Santos;Brasileira;CARIACICA;RUA;Ipanema nº29;Morada de Santa Fé;(27) 9750-5615;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro não Comungante;29/07/2013;Guilherme Miler Rodrigues;Brasileira;;RUA;;;(27) 9802-0116;Solteiro(a);;Menor de 6 anos;
+Membro Comungante;29/08/1956;Erleti Martins de Souza;Brasileira;CARIACICA;RUA;Celuta Chaves Julião nº143;Santa Cecilia;(27) 9766-3416;Casado(a);Raimundo de Souza;Ensino Médio Incompleto;Do Lar
+Membro não Comungante;29/08/2016;Lukas Rodrigues Pereira;Brasileira;CARIACICA;RUA;Alegre nº207;Vila Capixaba;(27)99879-8197;Solteiro(a);;Ensino Fundamental Incompleto;estudante
+Membro não Comungante;29/09/2014;Alice de Souza Ribeiro;Brasileira;CARIACICA;RUA;Waldemar Siepierski nº100, torre 3, apto 1006;Rio Branco;(27) 9291-9757;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro Comungante;29/12/1973;Kédma Machado Fonseca Bruno;Brasileira;CARIACICA;RUA;Larga nº21;Morada de Santa Fé;(27) 9748-4654;Casado(a);Starley Bruno;Ensino Médio Completo;Do Lar
+Membro Comungante;30/01/1975;Alexandre Rodrigues Soares;Brasileira;CARIACICA;RUA;Narciso Pavani nº 36;São Francisco;(27) 9812-6488;Casado(a);Lais Carmo Ceolim Soares;Ensino Médio Completo;Empresário
+Membro Comungante;30/01/2007;Alícia Monjardim;Brasileira;CARIACICA;RUA;Ormy Baptista Moreira nº05;Santa Bárbara;(27)98115-7705;Solteiro(a);;Ensino Médio Incompleto;Estudante
+Membro não Comungante;30/01/2012;Henrique Manzoli Diana;Brasileira;CARIACICA;RUA;Vicente Santonio Fantini nº54;Campo Grande;(27)99242-4845;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro Comungante;30/03/1951;Maria de Lourdes Ferreira G. Louzada;Brasileira;CARIACICA;RUA;Siqueira Campo nº15;Vila Capixaba;(27) 9931-7652;Casado(a);Jader Adame Louzada;;Aposentada
+Membro Comungante;30/03/1961;José Antonio Graceli;Brasileira;CARIACICA;RUA;Orávio Cardoso de Alcântara nº119;Morada de Santa Fé;(27)99964-4611;Casado(a);Waleska Christina Ferreira Rocha Graceli;Superior Completo;Advogado
+Membro Comungante;30/03/1988;Guilherme Bremenkamp Ribeiro;Brasileira;CARIACICA;RUA;Waldemar Siepierski nº100, torre 3 apgto 1006;Rio Branco;(27) 9816- 240;Casado(a);Paolla Pereira de Souza Ribeiro;Superior Completo;Bancário
+Membro Comungante;30/03/2000;Giulliano Magno Rezende Parmagnani;Brasileira;CARIACICA;RUA;Bom Pastor nº05;Campo Grande;(27)99203-9899;Solteiro(a);;Superior Incompleto;
+Membro não Comungante;30/03/2013;Davi Spadêto Baêta;Brasileira;CARIACICA;RUA;Otávio Cardoso de Alcântara nº53;Morada de Santa Fé;(27) 9950-4496;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro Comungante;30/04/1963;Valdinete Cardoso Milagres;Brasileira;CARIACICA;RUA;Francisco Alves nº7;Campo Grande;;Casado(a);Edmilson Barcellos Militão;Ensino Fundamental Completo;Do Lar
+Membro Comungante;30/04/1979;Enikelly de Almeida Vieira Tonini;Brasileira;CARIACICA;RUA;Padre Jose Carlos nº45;Campo Grande;(27) 8118-7398;Casado(a);Arthur Emilio Gasolli Tonini;Superior Completo;Analista de MKT
+Membro Comungante;30/04/2000;Denzell Andre de Sousa Barbosa;Brasileira;SERRA;RUA;Guarani nº26;Campina Grande;(27)98800-9386;Solteiro(a);;;Autônomo
+Membro não Comungante;30/04/2009;Lara Tavares de Aguilar;Brasileira;CARIACICA;RUA;Anatildes Passos da Costa nº51;Campo Grande;(27) 9929-1956;Solteiro(a);;Ensino Fundamental Completo;Estudante
+Membro Comungante;30/05/1977;Soenne Salaroli de Sousa Oliveira;Brasileira;CARIACICA;RUA;Otávio Cardoso de Alcântara nº53;Morada de Santa Fé;(27)99786-5828;Casado(a);Andresson de Oliveira Santos;Superior Incompleto;Assist. Administrativo
+Membro Comungante;30/06/1973;Karine de Freitas Silva de Oliveira;Brasileira;CARIACICA;RUA;Presidente Kennedy nº65 Apto 105;;(27) 9834-0349;Casado(a);Eufrânio de Oliveira;Superior Completo;Farmecêutica
+Membro Comungante;30/06/1983;Iana Ribeiro Manzoli Diana;Brasileira;CARIACICA;RUA;Vicente Santorio Fantini nº54;Campo Grande;(27)99242-4845;Casado(a);Jacimar Ferreia Diana;Superior Completo;Administradora
+Membro Comungante;30/07/1986;Thiago Chagas Barbosa;Brasileira;CARIACICA;RUA;Itaguaçu nº 13;Morada de Santa Fé;(27)98856-7484;Casado(a);Caroliny Santos Silva Barbosa;Ensino Médio Completo;Tecnico de Segurança do Trabalho
+Membro Comungante;30/07/1997;Matheus Vinícius Eugênio Breder;Brasileira;CARIACICA;RUA;Cinquenta e nove nº128;Nova Rosa da Penha;(27)99961-6117;Solteiro(a);;Superior Completo;Desenvolvedor de Software
+Membro não Comungante;30/07/2014;Ana Liz Pretti Garcia;Brasileira;CARIACICA;RUA;Granito nº05;São Geraldo;(27)99227-2821;Solteiro(a);;Menor de 6 anos;Estudante
+Membro Comungante;30/08/1978;Celiomar Tomas de Souza;Brasileira;CARIACICA;RUA;Presidente Kenedy nº42;Campo Grande;(27)99884-5795;Solteiro(a);;Ensino Médio Completo;Vendedor de Loja
+Membro Comungante;30/09/1973;Noêmia Tambara Cardoso Malini;Brasileira;CARIACICA;RUA;Dom Pedro II nº1747;Cruzeiro do Sul;(27)99911-4442;Casado(a);Willisson Malini;Superior Completo;Analista Financeiro
+Membro Comungante;30/09/2008;Heloisa Souza Machado;Brasileira;CARIACICA;AVENIDA;Ministro Eurico Salles nº24 apto 203;Campo Grande;(27)99582-2573;Solteiro(a);;Ensino Médio Incompleto;Estudante
+Membro Comungante;30/11/1988;Lais Carmo Ceolin Soares;Brasileira;CARIACICA;RUA;Narciso Pavani nº36;São Francisco;(27) 8101-1043;Casado(a);Alexandre Rodrigues Soares;Superior Incompleto;Empresária
+Membro Comungante;30/12/1998;Ives Augusto de Oliveira Curti;Brasileira;CARIACICA;RUA;Granito nº36;São Geraldo;(27)99743-6831;Solteiro(a);;Superior Incompleto;Estagiário
+Membro Comungante;31/01/1969;Ivane Alves Danieletto Pereira;Brasileira;CARIACICA;RUA;Jose Pena Nº57;São Geraldo;(27) 8151-6666;Casado(a);Adilson Costa Pereira;Ensino Médio Completo;Secretaria
+Membro Comungante;31/01/1999;Juliana Patrocínio Martins;Brasileira;VIANA;FAZENDA;Peixes S/Nº;Formate;(27)99935-1153;Solteiro(a);;Superior Incompleto;Estudante
+Membro Comungante;31/05/1997;Gladyston Dias de Oliveira;Brasileira;VITÓRIA;AVENIDA;Quatro de Setembro nº123;São Pedro;(27)99246-1271;Viúvo(a);;Superior Completo;Autônomo
+Membro Comungante;31/07/1976;Valdineia Oliveira Torres Pereira;Brasileira;CARIACICA;RUA;Manaus  nº81;Itapemerim;(27) 9745-7995;Casado(a);Adeilton do Carmo Pereira;Ensino Médio Completo;Copeira
+Membro Comungante;31/07/1985;Ariane Pereira Oliveira;Brasileira;CARIACICA;RUA;Rua Alegre 207;Vila Capixaba;(27)99879-8197;Casado(a);Rogério Rodrigues Pereira;Superior Completo;Assist. Social
+Membro não Comungante;31/07/2012;Helena Giavarini Brozeghini;Brasileira;CARIACICA;RUA;Sergio Cardoso nº69;Dom Bosco;(27) 9842-8992;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
+Membro Comungante;31/08/1981;Larissa Martins Santos Morais;Brasileira;CARIACICA;RUA;Nove nº23;Vale Esperança;(27)99515-8157;Casado(a);Cristiano Gomes de Morais;Superior Completo;Secretária Executiva
+Membro Comungante;31/08/2005;Ana Luiza Kuster Barcellos;Brasileira;CARIACICA;RUA;15 de Novembro nº57;;(27)99638-8010;Solteiro(a);;Ensino Médio Incompleto;Estudante
+Membro não Comungante;31/10/2007;Ana Clara Batista Babinsk;Brasileira;CARIACICA;RUA;Rogerio Pombo nº 55;Jardim America;(27) 9242-2775;Solteiro(a);;Ensino Fundamental Incompleto;Estudante
